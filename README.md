@@ -1,6 +1,11 @@
 # Analise-Mapemaneto-Risco-Barragems-Brasil
 Projeto open source com objetivo principal de identificar os potenciais riscos das barragens. Foram criados mapas dinâmicos baseados em dados abertos, e aqui nesse documento, estamos disponibilizando nossas descobertas e os códigos que foram criados para essas análises, acreditamos que compartilhar essa construção/código pode estimular e acelerar outras iniciativas do mesmo tipo ao redor do Brasil.
 
+
+![Figura1](https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/Dataviz/Barragens_MG_Regiao_Rompimento_Macro_2.png "Região de Brumadinho")
+> Barragens na região de Brumadinho, mostrando os domícilios próximos e as respectivas barragens, o qual o raio do círculo representa o volume da barragem e a a cor do círculo o potencial de risco associado (vermelho = alto).
+
+
 ## Pesquisadores
 O projeto foi desenvolvido por diversos pesquisadores da comunidade do **Programa Bárbara da Cappra Data Science** e pessoas também fora da comunidade. Alguns dos pesquisadores:
   * Ricardo Cappra
