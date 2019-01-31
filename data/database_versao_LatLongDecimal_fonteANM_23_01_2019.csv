@@ -1,0 +1,715 @@
+NOME_BARRAGEM_MINERACAO,NOME_DO_EMPREENDEDOR,CPF_CNPJ,POSICIONAMENTO,UF,MUNICIPIO,MINERIO_PRINCIPAL,ALTURA_ATUAL_metros,VOLUME_ATUAL_m3,CATEGORIA_DE_RISCO,DANO_POTENCIAL_ASSOCIADO,CLASSE,INSERIDA_NA_PNSB,LATITUDE,LONGITUDE
+0-1,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,22.00,"27,700,000.00",Baixa,Média,C,Sim,0.733361111111111,-60.1383888888889
+103 (Cruz),Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,10.30,"924,000.00",Baixa,Média,C,Sim,0.785722222222222,-60.1419166666667
+111 (Índio),Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,5.00,"48,873.00",Baixa,Média,C,Sim,0.789666666666667,-60.1442777777778
+158 (A-1),Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,30.00,"53,380,000.00",Baixa,Alta,B,Sim,0.738027777777778,-60.0789166666667
+161 (A-2),Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,22.00,"1,018,054.00",Baixa,Média,C,Sim,0.732286944444444,-60.0689988888889
+444 (A-3),Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,14.70,"886,241.00",Baixa,Média,C,Sim,0.738423888888889,-60.075865
+81-1,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,4.00,"75,522.00",Baixa,Média,C,Sim,0.743194444444444,-60.2014166666667
+Pau D'Arco,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,18.00,"52,800.00",Baixa,Média,C,Sim,0.756575833333333,-60.0880288888889
+Barragem da Cava,Cadam S.a.,04.788.980/0001-90,Sul do Equador,AP,VITÓRIA DO JARI,Caulim,25.00,"1,755,555.00",Baixa,Média,C,Sim,0.897686944444444,-52.3789708333333
+Mario Cruz,Zamin Amapá Mineração S.a.,06.030.747/0001-79,Norte do Equador,AP,PEDRA BRANCA DO AMAPARI,Itabirito,28.00,"25,366,731.00",Média,Média,C,Sim,0.800835833333334,-51.8745258333333
+North Mill Pond,Beadell Brasil Ltda,05.642.709/0001-04,Norte do Equador,AP,PEDRA BRANCA DO AMAPARI,Minério de Ouro Primário,27.00,"11,002,505.00",Baixa,Alta,B,Sim,0.860611111111111,-51.7283333333333
+TAP D,Beadell Brasil Ltda,05.642.709/0001-04,Norte do Equador,AP,PEDRA BRANCA DO AMAPARI,Minério de Ouro Primário,36.00,"6,280,000.00",Baixa,Alta,B,Sim,0.840833333333333,-51.8902777777778
+VILA NOVA,Unamgen Mineração e Metalurgia S.a.,42.593.269/0001-79,Norte do Equador,AP,MAZAGÃO,Minério de Ferro,15.50,"440,300.00",Baixa,Baixa,E,Sim,0.401673888888889,-51.7578088888889
+Barragem 01,Samaca Ferros Ltda,16.682.218/0001-03,Sul do Equador,BA,MAIQUINIQUE,Areia,12.00,"348,370.00",Média,Média,C,Sim,-15.7773861111111,-40.3224
+Barragem 02,Samaca Ferros Ltda,16.682.218/0001-03,Sul do Equador,BA,MAIQUINIQUE,Areia,19.00,"1,438,806.00",Média,Baixa,D,Sim,-15.7783888888889,-40.3178611111111
+BARRAGEM DE FLOTAÇÃO,Santa Luz Desenvolvimento Mineral Ltda,22.103.965/0001-42,Sul do Equador,BA,SANTALUZ,Minério de Ouro Primário,25.00,"1,403,849.00",Baixa,Alta,B,Sim,-11.0034444444444,-39.2870277777778
+BARRAGEM DE LIXIVIAÇÃO,Santa Luz Desenvolvimento Mineral Ltda,22.103.965/0001-42,Sul do Equador,BA,SANTALUZ,Minério de Ouro Primário,22.00,"207,365.00",Baixa,Alta,B,Sim,-11.0036388888889,-39.3008333333333
+Barragem de rejeito não magnético 01,Vanádio de Maracás S A,15.191.786/0001-49,Sul do Equador,BA,MARACÁS,Minério de Vanádio,11.99,"149,486.93",Baixa,Média,C,Sim,-13.6829444444444,-40.6903055555556
+Barragem de rejeito não magnético 02,Vanádio de Maracás S A,15.191.786/0001-49,Sul do Equador,BA,MARACÁS,Minério de Vanádio,15.19,"391,923.43",Baixa,Baixa,E,Sim,-13.6867363888889,-40.6916616666667
+Barragem de rejeito não magnético 03,Vanádio de Maracás S A,15.191.786/0001-49,Sul do Equador,BA,MARACÁS,Minério de Vanádio,20.21,"369,292.00",Baixa,Média,C,Sim,-13.68725,-40.6891388888889
+Barragem MCSA,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,6.65,"45,400,000.00",Baixa,Baixa,E,Sim,-9.85113888888889,-39.8265833333333
+Barragem Santa Rita,Mirabela Mineração do Brasil Ltda.,74.127.010/0001-29,Sul do Equador,BA,ITAGIBÁ,Minério de Níquel,27.00,"23,238,613.66",Baixa,Alta,B,Sim,-14.1891088888889,-39.6971408333333
+BARRAGEM USINA/CIP - LAGO 1 E 2,Fazenda Brasileiro Desenvolvimento Mineral Ltda.,22.104.045/0001-49,Sul do Equador,BA,BARROCAS,Rocha Aurífera,23.00,"13,770,423.00",Baixa,Alta,B,Sim,-11.4497222222222,-39.0897222222222
+BARRAGEM USINA/CIP - LAGO 3,Fazenda Brasileiro Desenvolvimento Mineral Ltda.,22.104.045/0001-49,Sul do Equador,BA,BARROCAS,Rocha Aurífera,11.17,"1,721,104.00",Baixa,Alta,B,Sim,-11.4471338888889,-39.0711958333333
+BARRAGEM USINA/CIP - LAGO 4,Fazenda Brasileiro Desenvolvimento Mineral Ltda.,22.104.045/0001-49,Sul do Equador,BA,BARROCAS,Rocha Aurífera,17.89,"248,254.30",Baixa,Alta,B,Sim,-11.4480555555556,-39.0980555555556
+DIQUE DE SEGURANÇA,Fazenda Brasileiro Desenvolvimento Mineral Ltda.,22.104.045/0001-49,Sul do Equador,BA,BARROCAS,Rocha Aurífera,8.37,"5,000.00",Baixa,Média,C,Sim,-11.4495,-39.0921666666667
+Barragem Norte,Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,ES,ANCHIETA,Sedimentos,7.00,"1,171,600.00",Baixa,Média,C,Sim,-20.7675708333333,-40.5883558333333
+Barragem BM,Mosaic Fertilizantes P&K S.A. Filial: Catalao,33.931.486/0010-21,Sul do Equador,GO,CATALÃO,Fosfato,28.00,"1,500,000.00",Baixa,Média,C,Sim,-18.1125833333333,-47.7844722222222
+Barragem de Rejeitos do Córrego Baco Pari,Mineração Maracá Industria e Comercio Sa,86.902.053/0001-13,Sul do Equador,GO,ALTO HORIZONTE,Minério de Cobre,47.00,"172,057,705.00",Baixa,Alta,B,Sim,-14.2058908333333,-49.4062147222222
+BARRAGEM DE REJEITOS PGDM,Pilar de Goias Desenvolvimento Mineral S.a.,21.823.063/0001-18,Sul do Equador,GO,PILAR DE GOIÁS,Minério de Ouro Primário,37.00,"6,183,074.23",Baixa,Alta,B,Sim,-14.8102222222222,-49.5406111111111
+BARRAGEM DO BURACO,Copebras Indústria Ltda,46.567.202/0009-78,Sul do Equador,GO,CATALÃO,Rocha Fosfática,65.00,"45,000,000.00",Baixa,Alta,B,Sim,-18.1625,-47.8454166666667
+Barragem Morro Pelado,Brasil Minérios S.a.,02.683.365/0001-93,Sul do Equador,GO,SÃO LUÍS DE MONTES BELOS,Vermiculita,12.00,"600,000.00",Baixa,Alta,B,Sim,-16.3938888888889,-50.3836666666667
+Barragem Morro Pelado 2,Brasil Minérios S.a.,02.683.365/0001-93,Sul do Equador,GO,SÃO LUÍS DE MONTES BELOS,Vermiculita,20.00,"70,000.00",Baixa,Baixa,E,Sim,-16.3971388888889,-50.3834166666667
+Barragem MSG,Mineração Serra Grande S.A.,42.445.403/0001-94,Sul do Equador,GO,CRIXÁS,Minério de Ouro Primário,87.00,"4,941,078.71",Baixa,Alta,B,Sim,-14.5610897222222,-49.9601958333333
+Unidade I,Niobras Mineração Ltda,07.171.562/0005-70,Sul do Equador,GO,OUVIDOR,Minério de Nióbio,31.00,"100,000.00",Média,Alta,B,Sim,-18.1466666666667,-47.8052777777778
+Unidade II,Niobras Mineração Ltda,07.171.562/0005-70,Sul do Equador,GO,OUVIDOR,Minério de Nióbio,25.00,"1,800,000.00",Baixa,Alta,B,Sim,-18.1497222222222,-47.8075
+Unidade IIB,Niobras Mineração Ltda,07.171.562/0005-70,Sul do Equador,GO,OUVIDOR,Minério de Nióbio,20.00,"1,100,000.00",Baixa,Alta,B,Sim,-18.1445805555556,-47.8112247222222
+Barrragem do Vené,Mineração Aurizona S.A.,42.422.048/0001-38,Sul do Equador,MA,GODOFREDO VIANA,Minério de Ouro Primário,29.50,"9,552,200.00",Baixa,Alta,B,Sim,-1.30133333333333,-45.7613055555556
+5 (MAC),Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,78.00,"13,718,217.00",Baixa,Alta,B,Sim,-19.9770866666667,-43.8930027777778
+5 (Mutuca),Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,55.00,"7,100,000.00",Baixa,Alta,B,Sim,-20.0262258333333,-43.9425625
+7B,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,27.40,"79,431.00",Baixa,Alta,B,Sim,-19.967365,-43.8829791666667
+8B,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,28.00,"92,635.00",Baixa,Alta,B,Sim,-19.9594205555556,-43.8726
+Água Fria,Topazio Imperial Mineração Comercio e Industria Ltda,16.857.294/0001-02,Sul do Equador,MG,OURO PRETO,Aluvião com Gemas,40.00,"5,648,000.00",Média,Alta,B,Sim,-20.4474083333333,-43.6438222222222
+Alcindo Vieira,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,24.00,"770,600.00",Baixa,Baixa,E,Sim,-19.5745088888889,-43.2462855555556
+Alemães,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,OURO PRETO,Minério de Ferro,57.00,"2,385,000.00",Baixa,Alta,B,Sim,-20.4235583333333,-43.7531027777778
+B,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,40.00,"333,000.00",Baixa,Alta,B,Sim,-20.1244166666667,-43.9252222222222
+B1,Nacional de Grafite Ltda,21.228.861/0001-00,Sul do Equador,MG,ITAPECERICA,Xisto,12.00,"55,000.00",Baixa,Média,C,Sim,-20.4442222222222,-45.1335277777778
+B2,Nacional de Grafite Ltda,21.228.861/0001-00,Sul do Equador,MG,ITAPECERICA,Xisto,13.00,"798,178.00",Baixa,Alta,B,Sim,-20.4400555555556,-45132
+B2  - AGUA PRETA,Companhia Siderúrgica Nacional,33.042.730/0001-04,Sul do Equador,MG,CONSELHEIRO LAFAIETE,Minério de Manganês,29.00,"265,000.00",Baixa,Alta,B,Sim,-20.6263944444444,-43.7653861111111
+B3,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,SÃO GONÇALO DO RIO ABAIXO,Minério de Ferro,18.50,"137,575.00",Baixa,Alta,B,Sim,-19.8786497222222,-43.3782472222222
+B3/B4,Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba,33.417.445/0026-89,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,55.00,"1,896,000.00",Baixa,Alta,B,Sim,-20.0476111111111,-43.9543611111111
+B4,Nacional de Grafite Ltda,21.228.861/0001-00,Sul do Equador,MG,ITAPECERICA,Xisto,47.00,"1,090,000.00",Baixa,Alta,B,Sim,-20.4378611111111,-45.1484166666667
+B5,VERMELHÃO MINERAÇÃO INDUSTRIA E COMERCIO LTDA,16.857.492/0001-76,Sul do Equador,MG,OURO PRETO,Minério com Gemas,26.40,"223,840.00",Baixa,Baixa,E,Sim,-20.4018055555556,-43.5341666666667
+B7,Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba,33.417.445/0026-89,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,24.00,"127,161.00",Baixa,Média,C,Sim,-20.0611388888889,-43.9613333333333
+Baia da UTM I,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,OURO PRETO,Minério de Ferro,17.00,"12,000.00",Baixa,Alta,B,Sim,-20.4363333333333,-43.7760277777778
+Baias da UTM II,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,OURO PRETO,Minério de Ferro,22.00,"26,000.00",Baixa,Alta,B,Sim,-20.4547777777778,-43.7769444444445
+Baixo João Pereira,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,CONGONHAS,Minério de Ferro,15.76,"142,500.00",Baixa,Média,C,Sim,-20.4401388888889,-43.9051388888889
+Barnabé,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,CONGONHAS,Minério de Ferro,25.00,"318,550.00",Baixa,Alta,B,Sim,-20.4258333333333,-43.8917777777778
+Barnabé 1,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,CONGONHAS,Minério de Ferro,33.00,"407,524.00",Baixa,Alta,B,Sim,-20.4340277777778,-43.8823333333333
+Barragem 01 - Jose Jaime,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,20.00,"1,200,000.00",Baixa,Alta,B,Sim,-20.13715,-44.3836472222222
+Barragem 02 - Canindé,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,40.00,"86,937.10",Baixa,Média,C,Sim,-20.1387,-44.3801888888889
+Barragem 03,Companhia Siderúrgica Nacional,33.042.730/0001-04,Sul do Equador,MG,ARCOS,Calcário,10.00,"900,000.00",Baixa,Média,C,Sim,-20.3134388888889,-45.5774555555556
+Barragem 03 - Zé da Grota,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,32.00,"3,200,000.00",Baixa,Alta,B,Sim,-20.138425,-44.3865861111111
+Barragem 1,NEXA RECURSOS MINERAIS S.A,42.416.651/0001-07,Sul do Equador,MG,PARACATU,Minério de Zinco,21.00,"1,800,000.00",Baixa,Alta,B,Sim,-17.4976447222222,-46.8187638888889
+Barragem 1 - Decantação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Hematita,12.00,"40,000.00",Baixa,Alta,B,Sim,-20.3786111111111,-43.9161111111111
+Barragem 2,NEXA RECURSOS MINERAIS S.A,42.416.651/0001-07,Sul do Equador,MG,PARACATU,Calcário Dolomítico,32.50,"1,600,000.00",Baixa,Alta,B,Sim,-17.5106088888889,-46.8283277777778
+Barragem 2 - Decantação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,12.00,"64,000.00",Baixa,Média,C,Sim,-20.3783527777778,-43.9162388888889
+Barragem 3,NEXA RECURSOS MINERAIS S.A,42.416.651/0001-07,Sul do Equador,MG,PARACATU,Calcário Dolomítico,12.00,"500,000.00",Baixa,Alta,B,Sim,-17.5132688888889,-46.8284138888889
+BARRAGEM 7,Ferrous Resources do Brasil Sa,08.852.207/0001-04,Sul do Equador,MG,JECEABA,Minério de Ferro,64.00,"4,418,484.24",Baixa,Alta,B,Sim,-20.5626111111111,-43.9508611111111
+Barragem A,Mosaic Fertilizantes P&K S.A. Filial: Araxa,33.931.486/0019-60,Sul do Equador,MG,ARAXÁ,Fosfato,8.00,"30,000.00",Baixa,Alta,B,Sim,-19.6497222222222,-46.9461111111111
+Barragem A0,Mosaic Fertilizantes P&K S.A. Filial: Araxa,33.931.486/0019-60,Sul do Equador,MG,ARAXÁ,Fosfato,23.50,"4,600,000.00",Baixa,Alta,B,Sim,-19.6166666666667,-47.0333333333333
+Barragem Aroeira,NEXA RECURSOS MINERAIS S.A,42.416.651/0001-07,Sul do Equador,MG,VAZANTE,Minério de Zinco,44.00,"11,200,000.00",Baixa,Alta,B,Sim,-17.9726111111111,-46.8144722222222
+BARRAGEM AUXILIAR DO VIGIA,Nacional Minerios Sa,08.446.702/0001-05,Sul do Equador,MG,OURO PRETO,Minério de Ferro,35.00,"3,140,693.00",Baixa,Alta,B,Sim,-20.4344444444444,-43.8353055555556
+Barragem B,Mosaic Fertilizantes P&K S.A. Filial: Patos,33.931.486/0027-70,Sul do Equador,MG,PATOS DE MINAS,Fosfato,25.00,"3,260,000.00",Baixa,Média,C,Sim,-18.3808888888889,-46.9271944444444
+Barragem B1 - Mina Ipê,Mineração Morro do Ipê S.a.,22.902.554/0001-17,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,55.00,"571,815.00",Baixa,Média,C,Sim,-20.1198055555556,-44.3074722222222
+Barragem B1 - Mina Tico-Tico,Mineração Morro do Ipê S.a.,22.902.554/0001-17,Sul do Equador,MG,IGARAPÉ,Sedimentos,22.00,"22,000.00",Baixa,Alta,B,Sim,-20.1017777777778,-44.2890555555556
+Barragem B1/B4,Mosaic Fertilizantes P&K S.A. Filial: Araxa,33.931.486/0019-60,Sul do Equador,MG,ARAXÁ,Fosfato,58.00,"24,000,000.00",Baixa,Alta,B,Sim,-19.6336111111111,-46.9963888888889
+Barragem B1A Ipê,Emicon Mineração e Terraplenagem LTDA.,16.679.953/0001-68,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,37.00,"22,460.00",Média,Alta,B,Sim,-20.1229722222222,-44.3125833333333
+Barragem B1-Auxiliar - Mina Tico-Tico,Mineração Morro do Ipê S.a.,22.902.554/0001-17,Sul do Equador,MG,IGARAPÉ,Minério de Ferro,68.00,"657,575.00",Baixa,Alta,B,Sim,-20.1035277777778,-44.2881944444444
+Barragem B2,Mosaic Fertilizantes P&K S.A. Filial: Araxa,33.931.486/0019-60,Sul do Equador,MG,ARAXÁ,Minério de Ferro,25.00,"750,000.00",Baixa,Média,C,Sim,-19.6436111111111,-46.9741666666667
+Barragem B2 - Mina Tico-Tico,Mineração Morro do Ipê S.a.,22.902.554/0001-17,Sul do Equador,MG,IGARAPÉ,Minério de Ferro,80.00,"2,200,000.00",Baixa,Alta,B,Sim,-20.1103333333333,-44.2870833333333
+BARRAGEM B2 AUXILIAR,Nacional Minerios Sa,08.446.702/0001-05,Sul do Equador,MG,RIO ACIMA,Minério de Ferro,33.00,"6,439,465.00",Baixa,Alta,B,Sim,-20.1633888888889,-43.8510027777778
+BARRAGEM B4,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Minério de Ferro,65.00,"13,001,821.00",Baixa,Alta,B,Sim,-20.4858333333333,-43.8858333333333
+BARRAGEM B5,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Minério de Ferro,41.00,"5,393,580.00",Baixa,Alta,B,Sim,-20.4897222222222,-43.8911111111111
+Barragem BA-3,Mosaic Fertilizantes P&K S.A. Filial: Tapira,33.931.486/0020-01,Sul do Equador,MG,TAPIRA,Fosfato,14.00,"650,000.00",Baixa,Média,C,Sim,-19.8233055555556,-46.8683055555556
+Barragem BD-2,Mosaic Fertilizantes P&K S.A. Filial: Tapira,33.931.486/0020-01,Sul do Equador,MG,TAPIRA,Fosfato,21.00,"2,000,000.00",Baixa,Baixa,E,Sim,-19.83725,-46.8373611111111
+Barragem BD-5,Mosaic Fertilizantes P&K S.A. Filial: Tapira,33.931.486/0020-01,Sul do Equador,MG,TAPIRA,Fosfato,33.00,"2,560,000.00",Baixa,Alta,B,Sim,-19.8210277777778,-46.8418055555556
+Barragem BL-1,Mosaic Fertilizantes P&K S.A. Filial: Tapira,33.931.486/0020-01,Sul do Equador,MG,TAPIRA,Fosfato,91.00,"170,000,000.00",Baixa,Alta,B,Sim,-19.8424722222222,-46.86425
+BARRAGEM BOM JARDIM,Bauminas Mineração Ltda,19.534.650/0001-45,Sul do Equador,MG,MIRAÍ,Argila,23.00,"1,450,000.00",Baixa,Alta,B,Sim,-21.2115752777778,-42.7149308333333
+Barragem BR,Mosaic Fertilizantes P&K S.A. Filial: Tapira,33.931.486/0020-01,Sul do Equador,MG,TAPIRA,Fosfato,57.00,"80,000,000.00",Baixa,Alta,B,Sim,-19.8385,-46.8327777777778
+Barragem BRI,Mosaic Fertilizantes P&K S.A. Filial: Tapira,33.931.486/0020-01,Sul do Equador,MG,TAPIRA,Fosfato,35.00,"8,300,000.00",Baixa,Alta,B,Sim,-19.7888611111111,-46.8788888888889
+Barragem C,Mosaic Fertilizantes P&K S.A. Filial: Patos,33.931.486/0027-70,Sul do Equador,MG,PATOS DE MINAS,Fosfato,10.00,"417,600.00",Baixa,Média,C,Sim,-18.3798055555556,-46.9328333333333
+BARRAGEM CASA DE PEDRA,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Minério de Ferro,84.00,"21,713,715.00",Baixa,Alta,B,Sim,-20.5058333333333,-43.8833333333333
+Barragem Central,Safm Mineração Ltda,09.325.670/0001-52,Sul do Equador,MG,ITABIRITO,Minério de Ferro,25.00,"466,079.71",Baixa,Média,C,Sim,-20.2728758333333,-43.8951708333333
+Barragem da Grota,Safm Mineração Ltda,09.325.670/0001-52,Sul do Equador,MG,ITABIRITO,Minério de Ferro,13.50,"109,380.15",Baixa,Alta,B,Sim,-20.26875,-43.8932777777778
+Barragem da Mina II,Companhia Mineradora do Pirocloro de Araxá,17.806.779/0001-30,Sul do Equador,MG,ARAXÁ,Minério de Nióbio,25.00,"22,000.00",Baixa,Baixa,E,Sim,-19657,-46.9401805555555
+Barragem de Aredes,Safm Mineração Ltda,09.325.670/0001-52,Sul do Equador,MG,ITABIRITO,Minério de Ferro,17.00,"448,281.81",Baixa,Média,C,Sim,-20.2757777777778,-43.8982222222222
+Barragem de Contenção de Sedimentos do Josino,Ferro + Mineração S.a.,21.256.870/0001-04,Sul do Equador,MG,OURO PRETO,Minério de Ferro,9.00,"16,636.00",Baixa,Média,C,Sim,-20.4256,-43.8646916666667
+Barragem de Decantação de Água e Polpa - EBII - Mineroduto,Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,MATIPÓ,Sedimentos,17.00,"120,942.00",Baixa,Alta,B,Sim,-20.3719558333333,-42.3548077777778
+Barragem de Germano,Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,MARIANA,Itabirito,163.00,"129,590,000.00",Baixa,Alta,B,Sim,-20.2165,-43.4679444444445
+Barragem de Mercês,Bauminas Mineração Ltda,19.534.650/0001-45,Sul do Equador,MG,MERCÊS,Bauxita Grau Não Metalúrgico,29.50,"237,000.00",Baixa,Baixa,E,Sim,-21.1325752777778,-43.3503447222222
+BARRAGEM DIQUE 2,Minar Mineração Aredes Ltda.,20.066.908/0001-05,Sul do Equador,MG,ITABIRITO,Minério de Ferro,25.00,"396,000.00",Média,Média,C,Sim,-20.2859738888889,-43.8984877777778
+BARRAGEM DO VIGIA,Nacional Minerios Sa,08.446.702/0001-05,Sul do Equador,MG,OURO PRETO,Minério de Ferro,30.00,"812,901.00",Baixa,Alta,B,Sim,-20.4379819444444,-43.8340097222222
+Barragem E,Mosaic Fertilizantes P&K S.A. Filial: Araxa,33.931.486/0019-60,Sul do Equador,MG,ARAXÁ,Fosfato,13.96,"90,000.00",Baixa,Alta,B,Sim,-19.6502038888889,-46.9523219444445
+BARRAGEM ECOLÓGICA 1,Nacional Minerios Sa,08.446.702/0001-05,Sul do Equador,MG,RIO ACIMA,Cascalho,15.00,"41,000.00",Baixa,Alta,B,Sim,-20.1588408333333,-43.8429958333333
+BARRAGEM ECOLÓGICA 2,Nacional Minerios Sa,08.446.702/0001-05,Sul do Equador,MG,RIO ACIMA,Cascalho,6.50,"104,000.00",Baixa,Alta,B,Sim,-20.1583527777778,-43.8473547222222
+Barragem Eustáquio,Kinross Brasil Mineração S A,20.346.524/0001-46,Sul do Equador,MG,PARACATU,Minério de Ouro Primário,94.00,"148,349,348.00",Baixa,Alta,B,Sim,-17.1460888888889,-46.9021916666667
+Barragem F,Mosaic Fertilizantes P&K S.A. Filial: Araxa,33.931.486/0019-60,Sul do Equador,MG,ARAXÁ,Fosfato,25.00,"35,200.00",Baixa,Alta,B,Sim,-19.6541666666667,-46.9530555555556
+Barragem II Mina Engenho,Mundo Mineração Ltda.,07.950.015/0001-60,Sul do Equador,MG,RIO ACIMA,Minério de Ouro Primário,40.00,"14,160.67",Alta,Alta,A,Sim,-20.0628055555556,-43.7947222222222
+Barragem Mãe D'Água,Cia Mineradora Catite Duo S. A.,16.530.219/0001-32,Sul do Equador,MG,NOVA ERA,Minério de Ferro,48.00,"3,100,000.00",Média,Média,C,Sim,-19.6017138888889,-43.0299166666667
+Barragem Mina Engenho,Mundo Mineração Ltda.,07.950.015/0001-60,Sul do Equador,MG,RIO ACIMA,Minério de Ouro Primário,32.00,"549,927.00",Alta,Alta,A,Sim,-20.0616944444444,-43.7946944444444
+Barragem Mina Oeste (Somisa),Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,80.00,"12,535,000.00",Baixa,Alta,B,Sim,-20.1673333333333,-44.46
+BARRAGEM MINAR,Minar Mineração Aredes Ltda.,20.066.908/0001-05,Sul do Equador,MG,ITABIRITO,Minério de Ferro,1.00,"87,775.00",Média,Alta,B,Sim,-20.2817222222222,-43.8995861111111
+Barragem MRDM,Mineração Riacho dos Machados Ltda.,08.832.667/0001-62,Sul do Equador,MG,RIACHO DOS MACHADOS,Minério de Ouro Primário,30.00,"5,945,479.06",Baixa,Alta,B,Sim,-16.05625,-43.1291666666667
+Barragem Paciência,Mineração Serras do Oeste Eireli,28.917.748/0001-72,Sul do Equador,MG,ITABIRITO,Minério de Ouro Primário,34.00,"1,400,000.00",Baixa,Alta,B,Sim,-20.2104547222222,-43.6857777777778
+BARRAGEM REJEITOS,NEXA RECURSOS MINERAIS S.A,42.416.651/0001-07,Sul do Equador,MG,FORTALEZA DE MINAS,Minério de Níquel,46.80,"3,250,000.00",Baixa,Alta,B,Sim,-20.8928611111111,-46.7052777777778
+Barragem RG2W,Mineração Serras do Oeste Eireli,28.917.748/0001-72,Sul do Equador,MG,CAETÉ,Minério de Ouro Primário,61.00,"550,645.00",Baixa,Média,C,Sim,-19.9582527777778,-43.6348088888889
+Barragem Samambaia 0 (Zero),Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,46.00,"7,545,160.00",Baixa,Alta,B,Sim,-20.1729216666667,-44.4485475
+Barragem Santo Antônio,Kinross Brasil Mineração S A,20.346.524/0001-46,Sul do Equador,MG,PARACATU,Minério de Ouro Primário,104.00,"399,058,945.00",Baixa,Alta,B,Sim,-17.1463333333333,-46.8562611111111
+BARRAGEM SERRINHA,Ferrous Resources do Brasil Sa,08.852.207/0001-04,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,4.00,"100,000.00",Baixa,Média,C,Sim,-20.1746666666667,-43976
+Bocaina,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,OURO PRETO,Minério de Ferro,56.00,"955,000.00",Baixa,Alta,B,Sim,-20.4406777777778,-43.7900444444444
+Borrachudo,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,6.00,"190,000.00",Baixa,Alta,B,Sim,-19.60931,-43.2633825
+Cachoeirinha,Vallourec Mineração Ltda,22.931.380/0001-10,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,45.00,"2,850,833.82",Baixa,Alta,B,Sim,-20.1527222222222,-43.9654444444445
+CALCINADOS,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,Sul do Equador,MG,NOVA LIMA,Minério de Ouro Primário,57.00,"3,397,349.00",Baixa,Alta,B,Sim,-19.9636111111111,-43.8388888888889
+Califórnia,Nacional de Grafite Ltda,21.228.861/0001-00,Sul do Equador,MG,SALTO DA DIVISA,Xisto,25.50,"3,000,000.00",Baixa,Alta,B,Sim,-16.2076388888889,-39.9469444444444
+Cambucal I,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,15.40,"220,841.00",Baixa,Alta,B,Sim,-19.6406433333333,-43.2414777777778
+Cambucal II,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,21.30,"157,082.00",Baixa,Alta,B,Sim,-19.6455922222222,-43.242225
+Campo Grande,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,MARIANA,Minério de Ferro,99.30,"22,978,889.00",Baixa,Alta,B,Sim,-20.1760680555556,-43.4873166666667
+Capão da Serra,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,47.00,"2,230,000.00",Baixa,Alta,B,Sim,-20.0686666666667,-43.9305833333333
+Capim Branco,Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba,33.417.445/0026-89,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,27.00,"470,000.00",Baixa,Alta,B,Sim,-20.1082727777778,-44.0736677777778
+Capitão do Mato,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,36.00,"2,136,495.00",Baixa,Alta,B,Sim,-20.1298888888889,-43.9256944444444
+CAVA B,Galvani Indústria Comércio e Serviços S.a. Filial: Roberto Eustáquio Silva Pedrosa,00.546.997/0002-60,Sul do Equador,MG,LAGAMAR,Fosfato,21.00,"1,890,000.00",Baixa,Baixa,E,Sim,-18.2798611111111,-46.8621111111111
+CAVA C,Galvani Indústria Comércio e Serviços S.a. Filial: Roberto Eustáquio Silva Pedrosa,00.546.997/0002-60,Sul do Equador,MG,LAGAMAR,Fosfato,48.00,"2,817,000.00",Baixa,Baixa,E,Sim,-18.2536666666667,-46.8410277777778
+Cemig I,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,32.50,"8,795,438.00",Baixa,Alta,B,Sim,-19.5756180555556,-43.2047569444445
+Cemig II,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,22.35,"870,558.00",Baixa,Alta,B,Sim,-19.5727002777778,-43.1975363888889
+Cianita 1,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,23.05,"450,000.00",Baixa,Alta,B,Sim,-20.1965833333333,-43.8670833333333
+Clarificação Bocaina,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,OURO PRETO,Minério de Ferro,21.00,"9,126.00",Baixa,Alta,B,Sim,-20.4412194444444,-43.7845
+Cobras,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,CATAS ALTAS,Minério de Ferro,13.45,"20,000.00",Baixa,Média,C,Sim,-20.1329844444444,-43.4103594444444
+COCURUTO,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,Sul do Equador,MG,NOVA LIMA,Minério de Ouro Primário,41.00,"4,240,553.00",Baixa,Alta,B,Sim,-19.9736111111111,-43.8294444444445
+Conceição,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,60.00,"35,874,318.00",Baixa,Alta,B,Sim,-19.6475833333333,-43.2741388888889
+CONTENÇÃO DE FINOS DE CDS I,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,Sul do Equador,MG,SANTA BÁRBARA,Filito,13.00,"260,000.00",Baixa,Alta,B,Sim,-20.0191666666667,-43.4927777777778
+CONTENÇÃO DE REJEITOS DE CDS II,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,Sul do Equador,MG,SANTA BÁRBARA,Minério de Ouro Primário,82.00,"7,907,500.00",Baixa,Alta,B,Sim,-19.9847222222222,-43.4713888888889
+CONTENÇÃO DE REJEITOS DE CUIABÁ,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,Sul do Equador,MG,SABARÁ,Minério de Ouro Primário,90.00,"7,429,355.00",Baixa,Alta,B,Sim,-19.8657819444444,-43.7275597222222
+Dicão,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,SÃO GONÇALO DO RIO ABAIXO,Minério de Ferro,32.70,"989,786.00",Baixa,Alta,B,Sim,-19.8747786111111,-43.3797283333333
+Dicão Leste,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,CATAS ALTAS,Minério de Ferro,22.50,"150,000.00",Baixa,Média,C,Sim,-20.1392897222222,-43.4123330555556
+Diogo,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,RIO PIRACICABA,Minério de Ferro,39.00,"6,571,347.70",Baixa,Alta,B,Sim,-19.9299422222222,-43.1961938888889
+Dique 01,Companhia de Mineração Serra Azul Comisa,03.405.415/0001-33,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,15.00,100.00,Baixa,Média,C,Sim,-20.1182916666667,-44.3198472222222
+Dique 02,Companhia de Mineração Serra Azul Comisa,03.405.415/0001-33,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,20.00,400.00,Baixa,Média,C,Sim,-20.1209555555556,-44.3228333333333
+Dique B - Pilha de Estéril Alegria E (Dique Oficina),Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,OURO PRETO,Sedimentos,15.00,"12,600.00",Baixa,Média,C,Sim,-20.18933,-43.5088758333333
+Dique B3 Ipê,Emicon Mineração e Terraplenagem LTDA.,16.679.953/0001-68,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,23.50,"10,010,305.00",Média,Média,C,Sim,-20.1193611111111,-44.3159444444444
+Dique B4 Ipê,Emicon Mineração e Terraplenagem LTDA.,16.679.953/0001-68,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,25.00,"6,053.00",Baixa,Baixa,E,Sim,-20.1175833333333,-44.3171944444445
+DIQUE BATATEIRO DE BAIXO,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Cascalho,16.00,"18,300.00",Baixa,Baixa,E,Sim,-20.4812069444444,-43.9223669444444
+Dique BIII-2,Mbl Materiais Básicos Ltda,19.543.206/0001-96,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,9.00,"19,765.55",Média,Média,C,Sim,-20.1483777777778,-44.4599838888889
+Dique BIII-3,Mbl Materiais Básicos Ltda,19.543.206/0001-96,Sul do Equador,MG,ITAÚNA,Minério de Ferro,17.00,"24,103.39",Média,Média,C,Sim,-20.1477613888889,-44.4601030555556
+Dique BIII-4,Mbl Materiais Básicos Ltda,19.543.206/0001-96,Sul do Equador,MG,ITAÚNA,Minério de Ferro,6.00,6.00,Média,Média,C,Sim,-20.1467769444444,-44.4602786111111
+Dique BIII-5,Mbl Materiais Básicos Ltda,19.543.206/0001-96,Sul do Equador,MG,ITAÚNA,Minério de Ferro,4.00,11.00,Média,Média,C,Sim,-20.1464258333333,-44.4606719444445
+Dique Couves (MBL),Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,24.00,"13,241.00",Baixa,Média,C,Sim,-20.1544444444444,-44.4463888888889
+DIQUE D,Brasmic Mineração Areia e Brita Ltda,22.470.777/0001-52,Sul do Equador,MG,BETIM,Areia e Cascalho,23.00,"1,540,000.00",Baixa,Alta,B,Sim,-19.9855555555556,-44.1214722222222
+DIQUE DA PILHA DA VILA II,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Cascalho,28.00,"18,556.00",Baixa,Baixa,E,Sim,-20.4522222222222,-43.8997222222222
+Dique de Contenção de Sedimentos 01,Anglo American Minério de Ferro Brasil S.a,02.359.572/0004-30,Sul do Equador,MG,CONCEIÇÃO DO MATO DENTRO,Minério de Ferro,12.00,"318,425.00",Baixa,Média,C,Sim,-18.8991666666667,-43.4083333333333
+Dique de Contenção de Sedimentos 02,Anglo American Minério de Ferro Brasil S.a,02.359.572/0004-30,Sul do Equador,MG,CONCEIÇÃO DO MATO DENTRO,Minério de Ferro,12.00,"634,140.00",Baixa,Média,C,Sim,-18.8897222222222,-43.4052777777778
+Dique de Contenção de Sedimentos 03,Anglo American Minério de Ferro Brasil S.a,02.359.572/0004-30,Sul do Equador,MG,CONCEIÇÃO DO MATO DENTRO,Sedimentos,15.50,"473,452.00",Baixa,Alta,B,Sim,-18.9208288888889,-43.4065730555556
+Dique de Contenção de Sedimentos 04,Anglo American Minério de Ferro Brasil S.a,02.359.572/0004-30,Sul do Equador,MG,CONCEIÇÃO DO MATO DENTRO,Sedimentos,14.60,"81,360.90",Baixa,Média,C,Sim,-18.9316666666667,-43.4016666666667
+DIQUE DO BICHENTO IIIA,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Cascalho,15.50,"116,696.00",Baixa,Baixa,E,Sim,-20485,-43.9333333333333
+DIQUE DO ENGENHO,Nacional Minerios Sa,08.446.702/0001-05,Sul do Equador,MG,CONGONHAS,Cascalho,10.00,"8,821.00",Baixa,Média,C,Sim,-20.4564722222222,-43.8944722222222
+DIQUE DO ESMERIL IV,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Cascalho,38.00,"282,079.00",Baixa,Alta,B,Sim,-20.4852777777778,-43955
+Dique Lisa,Vallourec Mineração Ltda,22.931.380/0001-10,Sul do Equador,MG,NOVA LIMA,Areia e Cascalho,12.00,"45,562.87",Baixa,Alta,B,Sim,-20.14975,-43.9645833333333
+Dique Norte da PDE 1,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,ITABIRITO,Dolomito,25.00,"25,200.00",Baixa,Média,C,Sim,-20.3018694444444,-43.923025
+Dique Oeste,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,16.70,"85,000.00",Baixa,Baixa,E,Sim,-20.1709722222222,-44.4545833333333
+Dique S3,Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,MARIANA,Sedimentos,12.00,"2,950,000.00",Baixa,Alta,B,Sim,-20.2358747222222,-43.4229919444444
+Dique S4,Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,MARIANA,Sedimentos,12.50,"1,006,318.00",Baixa,Alta,B,Sim,-20.2412777777778,-43.4108869444444
+Doutor,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,OURO PRETO,Minério de Ferro,77.00,"37,683,207.40",Baixa,Alta,B,Sim,-20.2904486111111,-43.4905277777778
+EB-2,Anglo American Minério de Ferro Brasil S.a,02.359.572/0004-30,Sul do Equador,MG,SANTO ANTÔNIO DO GRAMA,Minério de Ferro,50.00,"204,000.00",Baixa,Baixa,E,Sim,-20.3448055555556,-42.5618888888889
+Elefante,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,RIO PIRACICABA,Minério de Ferro,17.00,"201,441.00",Baixa,Baixa,E,Sim,-19.9324586111111,-43.2092133333333
+Fernandinho,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,19.00,"1,020,000.00",Baixa,Baixa,E,Sim,-20.1833055555556,-43.8595
+Forquilha I,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,OURO PRETO,Minério de Ferro,98.28,"12,042,671.00",Baixa,Alta,B,Sim,-20.4060555555556,-43.8557222222222
+Forquilha II,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,OURO PRETO,Minério de Ferro,95.76,"20,862,740.00",Baixa,Alta,B,Sim,-20.4082777777778,-43.8518055555556
+Forquilha III,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,OURO PRETO,Minério de Ferro,77.00,"23,143,107.62",Baixa,Alta,B,Sim,-20.4109166666667,-43.8366111111111
+Forquilha IV,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,OURO PRETO,Minério de Ferro,100.00,"4,108,399.60",Baixa,Alta,B,Sim,-20.3947777777778,-43.8515555555556
+Freitas,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,OURO PRETO,Minério de Ferro,7.50,"45,000.00",Baixa,Média,C,Sim,-20.4321944444444,-43.8495555555556
+Galego,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,SABARÁ,Minério de Ferro,37.28,"974,151.38",Baixa,Alta,B,Sim,-19.8571944444444,-43.8045277777778
+Grupo,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,OURO PRETO,Minério de Ferro,43.00,"800,000.00",Baixa,Alta,B,Sim,-20.4147777777778,-43.8651388888889
+I,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,86.00,"11,741,325.34",Baixa,Alta,B,Sim,-20.1191111111111,-44.12025
+II,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,20.00,"18,241.00",Baixa,Baixa,E,Sim,-20.1528888888889,-43.8884166666667
+III,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,11.00,"16,846.00",Baixa,Média,C,Sim,-20.1556944444444,-43.8871111111111
+Itabiruçu,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,71.00,"130,751,697.30",Baixa,Alta,B,Sim,-19.6853611111111,-43.2862222222222
+Itamarati de Minas,Companhia Brasileira de Alumínio,61.409.892/0001-73,Sul do Equador,MG,ITAMARATI DE MINAS,Bauxita Grau Metalúrgico,38.00,"13,820,000.00",Baixa,Alta,B,Sim,-21.4552247222222,-42.8716588888889
+IV,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,13.40,"238,000.00",Baixa,Alta,B,Sim,-20.1367222222222,-44.1203611111111
+IV-A,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,14.00,"130,000.00",Baixa,Alta,B,Sim,-20.1395,-44.1230833333333
+Jirau,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,15.00,"1,400,000.00",Baixa,Baixa,E,Sim,-19.5704805555556,-43.2315566666667
+Lavra Azul,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,CATAS ALTAS,Minério de Ferro,19.10,"10,000.00",Baixa,Média,C,Sim,-20.1177738888889,-43.4076536111111
+Maravilhas I,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,ITABIRITO,Minério de Ferro,12.00,"1,860,000.00",Baixa,Média,C,Sim,-20.2249166666667,-43.8732222222222
+Maravilhas II,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,ITABIRITO,Minério de Ferro,97.92,"91,925,622.00",Baixa,Alta,B,Sim,-20.2144166666667,-43.8916944444445
+Marçu,Nacional de Grafite Ltda,21.228.861/0001-00,Sul do Equador,MG,PEDRA AZUL,Xisto,37.00,"156,260.00",Baixa,Média,C,Sim,-15.8888333333333,-41.0602222222222
+Marés I,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,BELO VALE,Minério de Ferro,12.70,"15,000.00",Baixa,Alta,B,Sim,-20.4252777777778,-43.9278611111111
+Marés II,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,BELO VALE,Minério de Ferro,16.05,"241,000.00",Baixa,Alta,B,Sim,-20.4339444444444,-43.9315555555556
+Menezes I,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,16.85,"8,068.00",Baixa,Baixa,E,Sim,-20.1196388888889,-44.1392222222222
+Menezes II,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,21.00,"290,202.16",Baixa,Alta,B,Sim,-20.1280833333333,-44.1382777777778
+Miraí,Companhia Brasileira de Alumínio,61.409.892/0001-73,Sul do Equador,MG,MIRAÍ,Bauxita Grau Metalúrgico,52.00,"31,598,100.00",Baixa,Alta,B,Sim,-21.0621547222222,-42.5637627777778
+Moita,Mineração Serras do Oeste Eireli,28.917.748/0001-72,Sul do Equador,MG,CAETÉ,Minério de Ouro Primário,19.00,"313,481.00",Baixa,Alta,B,Sim,-19.9349258333333,-43.6490558333333
+Monjolo,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,SANTA BÁRBARA,Minério de Ferro,23.50,"400,000.00",Baixa,Alta,B,Sim,-19.9636397222222,-43.2378675
+Mosquito,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,CATAS ALTAS,Minério de Ferro,11.30,"1,089,830.50",Baixa,Alta,B,Sim,-20.1054744444444,-43.4041822222222
+Norte/Laranjeiras,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,58.80,"16,550,529.00",Baixa,Alta,B,Sim,-19.8483422222222,-43.4217205555556
+Nova Barragem de Santarém,Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,MARIANA,Itabirito,48.00,"6,940,000.00",Baixa,Alta,B,Sim,-20.2306427777778,-43.4416227777778
+Paracatu,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,CATAS ALTAS,Minério de Ferro,23.00,"36,685.00",Baixa,Média,C,Sim,-20.1183963888889,-43.4145716666667
+PDE 3,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,SÃO GONÇALO DO RIO ABAIXO,Minério de Ferro,34.50,"22,101.00",Baixa,Baixa,E,Sim,-19.8641436111111,-43.3558694444444
+PDE Fosforoso,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,MARIANA,Minério de Ferro,21.00,"20,000.00",Baixa,Baixa,E,Sim,-20.1593075,-43.4693108333333
+PDE Permanente I,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,MARIANA,Minério de Ferro,9.50,"30,000.00",Baixa,Alta,B,Sim,-20.1845319444444,-43.4376136111111
+PDE Permanente II - Fase I,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,MARIANA,Minério de Ferro,7.00,"15,000.00",Baixa,Média,C,Sim,-20.2074730555556,-43.4543997222222
+Peneirinha,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,40.00,"431,595.59",Baixa,Média,C,Sim,-20.1106152777778,-43.9636141666667
+Piabas,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,28.00,"1,537,164.00",Baixa,Alta,B,Sim,-19.5634738888889,-43.2062827777778
+Pilha Barragem,EXTRATIVA MINERAL LTDA,17.174.889/0001-26,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,25.00,"1,830,000.00",Baixa,Baixa,E,Sim,-20.1124166666667,-43.9079166666667
+Pontal,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,69.00,"226,957,900.00",Baixa,Alta,B,Sim,-19.6254633333333,-43.1829436111111
+Porteirinha,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,SANTA BÁRBARA,Minério de Ferro,31.00,"800,200.00",Baixa,Alta,B,Sim,-19.9592038888889,-43.38568
+Principal,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,SANTA BÁRBARA,Minério de Ferro,20.00,"1,994,773.00",Baixa,Alta,B,Sim,-20.1735,-43.6153055555556
+Quinzinho,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,16.00,"432,949.00",Baixa,Alta,B,Sim,-19.6073358333333,-43.257255
+Rancho Casca,Nacional de Grafite Ltda,21.228.861/0001-00,Sul do Equador,MG,PEDRA AZUL,Xisto,50.00,"17,500,000.00",Baixa,Alta,B,Sim,-15.9188611111111,-41.0390555555556
+RAPAUNHA,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,Sul do Equador,MG,NOVA LIMA,Minério de Ouro Primário,50.50,"8,690,243.00",Baixa,Alta,B,Sim,-19965,-43.8413888888889
+Rio do Peixe,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,31.00,"13,800,000.00",Baixa,Alta,B,Sim,-19.6742222222222,-43.2364166666667
+Santa Bárbara,Vallourec Mineração Ltda,22.931.380/0001-10,Sul do Equador,MG,BRUMADINHO,Areia e Cascalho,36.00,"660,278.89",Baixa,Alta,B,Sim,-20.1618611111111,-44.0062222222222
+Santana,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,52.40,"15,700,000.00",Baixa,Alta,B,Sim,-19.5550941666667,-43.1608625
+Sul (Córrego do Canal),Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,SÃO GONÇALO DO RIO ABAIXO,Minério de Ferro,83.00,"53,740,000.00",Baixa,Alta,B,Sim,-19.883975,-43.38568
+Sul Inferior,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,35.00,"510,361.84",Baixa,Alta,B,Sim,-19.9757261111111,-43.6006975
+Sul Superior,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,85.00,"6,016,849.00",Baixa,Alta,B,Sim,-19.9701755555556,-43.5968669444445
+Tanque Específico IX-B,Kinross Brasil Mineração S A,20.346.524/0001-46,Sul do Equador,MG,PARACATU,Minério de Ouro Primário,15.00,"1,010,000.00",Baixa,Média,C,Sim,-17.1741444444444,-46.8790972222222
+Tanque Específico X,Kinross Brasil Mineração S A,20.346.524/0001-46,Sul do Equador,MG,PARACATU,Minério de Ouro Primário,15.00,"1,188,168.57",Baixa,Média,C,Sim,-17.1754361111111,-46.8877694444444
+Tanque Específico XI,Kinross Brasil Mineração S A,20.346.524/0001-46,Sul do Equador,MG,PARACATU,Minério de Ouro Primário,11.80,"530,359.06",Baixa,Média,C,Sim,-17.1724083333333,-46.8833111111111
+Tanque Específico XII,Kinross Brasil Mineração S A,20.346.524/0001-46,Sul do Equador,MG,PARACATU,Minério de Ouro Primário,46.30,"1,749,516.71",Baixa,Média,C,Sim,-17.1822722222222,-46.8988
+Taquaras,Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba,33.417.445/0026-89,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,25.00,"950,000.00",Baixa,Alta,B,Sim,-20.0393333333333,-43.9291388888889
+Timbopeba,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,OURO PRETO,Minério de Ferro,64.90,"34,000,000.00",Baixa,Alta,B,Sim,-20.2705144444444,-43.4962352777778
+Três Fontes,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,10.00,"20,500.00",Baixa,Alta,B,Sim,-19.6220877777778,-43.2340625
+Turmalina,Mineração Turmalina Ltda,01.731.616/0001-03,Sul do Equador,MG,CONCEIÇÃO DO PARÁ,Minério de Ouro Primário,18.00,"682,534.15",Baixa,Alta,B,Sim,-19.7460555555556,-44.8744166666667
+Vargem Grande,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,35.00,"9,500,000.00",Baixa,Alta,B,Sim,-20.1818611111111,-43867
+VI,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,40.00,"843,809.00",Baixa,Alta,B,Sim,-20.1190555555556,-44.1244166666667
+VII,Vale S A Filial: Vale Paraopeba,33.592.510/0035-01,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,22.50,"22,200.00",Baixa,Média,C,Sim,-20.1042777777778,-44.1196666666667
+Volta Grande 1,Amg Mineração S.a.,11.224.676/0001-85,Sul do Equador,MG,NAZARENO,Pegmatito,40.00,"658,400.00",Baixa,Alta,B,Sim,-21.0856111111111,-44.5868611111111
+Volta Grande 2,Amg Mineração S.a.,11.224.676/0001-85,Sul do Equador,MG,NAZARENO,Pegmatito,32.00,"1,258,000.00",Baixa,Alta,B,Sim,-21.0877777777778,-44.5896666666667
+Volta Grande 3,Amg Mineração S.a.,11.224.676/0001-85,Sul do Equador,MG,SÃO TIAGO,Pegmatito,19.00,"264,601.17",Baixa,Alta,B,Sim,-21.0726666666667,-44.5884833333333
+Bacia 02 Pé da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,4.25,"27,525.00",Baixa,Média,C,Sim,-19.171285,-57.6364447222222
+Bacia 03-04 Pé da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,4.20,"118,822.97",Baixa,Média,C,Sim,-19.1740308333333,-57.6395083333333
+Bacia 07-08 Pé da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,Sul do Equador,MS,CORUMBÁ,Minério de Manganês,4.95,"169,312.50",Baixa,Alta,B,Sim,-19.1753141666667,-57.6394752777778
+Barragem B-6,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,11.00,"103,000.00",Baixa,Média,C,Sim,-19.2626944444444,-57.5270555555556
+Barragem Sul,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,23.00,"600,000.00",Baixa,Alta,B,Sim,-19.2055277777778,-57.6353055555556
+Gregório,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,34.50,"8,987,940.00",Baixa,Alta,B,Sim,-19.2244466666667,-57.5599791666667
+Bacia de Rejeitos,Reginaldo Luiz de Almeida Ferreira Me,08.838.089/0001-71,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Rocha Aurífera,25.00,"625,000.00",Média,Baixa,D,Sim,-15.6913611111111,-56.3509722222222
+Barragem de Rejeito 1,Valdinei Mauro de Souza,00.056.836/0581-49,Sul do Equador,MT,POCONÉ,Minério de Ouro Primário,15.00,"1,067,704.20",Média,Baixa,D,Sim,-16.3051361111111,-56.7206105555556
+Barragem de Rejeito Estrela 03,Mara Daisy Gil Dias,00.082.494/2401-82,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,10.00,"95,000.00",Baixa,Média,C,Sim,-15.6546388888889,-56.3887638888889
+Barragem de Rejeito Max,Marcio Nascimento,00.005.208/1651-04,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Areia,7.50,"1,205,301.52",Média,Média,C,Sim,-15.8955833333333,-56.1853888888889
+Barragem de Rejeitos Bom Futuro,José Maria Otávio Martins Duarte,00.086.950/7031-04,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Rocha Aurífera,15.00,"1,183,119.15",Baixa,Baixa,E,Sim,-15.6592777777778,-56.2850833333333
+Barragem do Serginho,Sergio da Silva,00.020.618/9991-91,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,30.00,"2,100,000.00",Média,Baixa,D,Sim,-15.9217444444444,-56.1632055555556
+Barragem EPP,Mineração Apoena S A,10.302.599/0001-71,Sul do Equador,MT,PONTES E LACERDA,Rocha Aurífera,51.00,"4,324,936.11",Baixa,Alta,B,Sim,-15.3299444444444,-59.2550833333333
+BARRAGEM T01,Valdinei Mauro de Souza,00.056.836/0581-49,Sul do Equador,MT,POCONÉ,Rocha Aurífera,16.00,"1,654,500.00",Baixa,Baixa,E,Sim,-16.29075,-56.7119722222222
+BARRAGEM T02,Euler Oliveira Coelho,00.087.897/8905-97,Sul do Equador,MT,CUIABÁ,Rocha Aurífera,10.00,"3,534,000.00",Baixa,Baixa,E,Sim,-15.5618166666667,-55.8225944444444
+BARRAGEM T03,Euler Oliveira Coelho,00.087.897/8905-97,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Rocha Aurífera,12.00,"3,704,000.00",Média,Baixa,D,Sim,-15.8347888888889,-56.1867666666667
+BR BOSCO,Filadelfo dos Reis Dias,00.004.794/2901-44,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,45.00,"1,300,000.00",Média,Média,C,Sim,-15.6563558333333,-56.3378408333333
+BR ISMAEL,Ismael Ledovino de Arruda,00.015.682/9861-72,Sul do Equador,MT,POCONÉ,Areia,14.00,"450,000.00",Alta,Média,B,Sim,-16.2455361111111,-56.5892805555556
+BR SANTA FELICIDADE,Filadelfo dos Reis Dias,00.004.794/2901-44,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,20.30,"650,000.00",Média,Média,C,Sim,-15.6638458333333,-56.3526138888889
+BRAVO 1,Nagella Chrissie Firmino Bravo,00.004.238/0611-44,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,15.00,"941,039.88",Baixa,Média,C,Sim,-15.4665138888889,-56.4608958333333
+Cabeceiras,Mineração Apoena S A,10.302.599/0001-71,Sul do Equador,MT,VILA BELA DA SANTÍSSIMA TRINDADE,Minério de Ouro Primário,16.50,"64,107.97",Baixa,Média,C,Sim,-14.8359880555556,-59.6690911111111
+CASA DE PEDRA,Maney Mineração Casa de Pedra Ltda,80.336.233/0001-07,Sul do Equador,MT,CUIABÁ,Minério de Ouro Primário,8.00,"15,652,000.00",Baixa,Alta,B,Sim,-15.5601111111111,-55.79275
+Casarão,Mineração Apoena S A,10.302.599/0001-71,Sul do Equador,MT,VILA BELA DA SANTÍSSIMA TRINDADE,Minério de Ouro Primário,15.30,"50,676.20",Baixa,Média,C,Sim,-14.8524158333333,-59.6544686111111
+Dique de Finos,Mineração Apoena S A,10.302.599/0001-71,Sul do Equador,MT,VILA BELA DA SANTÍSSIMA TRINDADE,Minério de Ouro Primário,19.00,"419,440.80",Baixa,Alta,B,Sim,-14.8395277777778,-59.6575833333333
+GONÇA,Gonçalo Pedroso de Barros,00.017.807/3441-72,Sul do Equador,MT,POCONÉ,Areia,1.45,"265,000.00",Média,Média,C,Sim,-16.23425,-56.6098888888889
+OURO FINO,Lysander Lima de França,00.005.533/4409-92,Sul do Equador,MT,POCONÉ,Areia,20.00,"867,000.00",Média,Média,C,Sim,-16.3125027777778,-56.6522861111111
+Planta,PROMETÁLICA MINERAÇÃO LTDA,03.564.155/0001-49,Sul do Equador,MT,RIO BRANCO,Minério de Zinco,20.00,"230,000.00",Média,Alta,B,Sim,-15.3961944444444,-58.14525
+POND 1 - BARRAGEM DE LIXIVIAÇÃO,NX GOLD S A Filial: NX GOLD SA,18.501.410/0002-62,Sul do Equador,MT,NOVA XAVANTINA,Minério de Ouro Primário,13.12,"440,000.00",Baixa,Alta,B,Sim,-14.64075,-52.4969444444444
+POND 2 - BARRAGEM DE FLOTAÇÃO,NX GOLD S A Filial: NX GOLD SA,18.501.410/0002-62,Sul do Equador,MT,NOVA XAVANTINA,Minério de Ouro Primário,16.24,"210,000.00",Baixa,Média,C,Sim,-14.6389444444444,-52.4986111111111
+POND 3 - BARRAGEM DE FLOTAÇÃO,NX GOLD S A Filial: NX GOLD SA,18.501.410/0002-62,Sul do Equador,MT,NOVA XAVANTINA,Minério de Ouro Primário,13.58,"150,000.00",Baixa,Média,C,Sim,-14.6393333333333,-52.5013611111111
+RONDON,ROBERTO NUNES RONDON,00.035.257/1131-04,Sul do Equador,MT,POCONÉ,Areia,25.00,"490,000.00",Média,Média,C,Sim,-16.2924,-56.6507555555556
+SANDRO GOMES,Valdinei Mauro de Souza,00.056.836/0581-49,Sul do Equador,MT,POCONÉ,Areia,19.00,"200,000.00",Baixa,Baixa,E,Sim,-16.2951527777778,-56.7256166666667
+Santa Tereza,Jeová Barbosa de Morais,00.070.217/8581-04,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Aluvião Aurífero,15.00,"671,803.89",Média,Média,C,Sim,-15.8725277777778,-56.1721944444444
+Santa Tereza II,Jeová Barbosa de Morais,00.070.217/8581-04,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,5.00,"150,000.00",Média,Média,C,Sim,-15.8746247222222,-56.1665658333333
+Tanque Fundo,Humberto Covezzi,00.029.902/5251-72,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,15.40,"1,267,291.33",Média,Baixa,D,Sim,-15.9875361111111,-56.3138555555556
+Tarumã,VM Mineração e Construção Eireli EPP,03.121.422/0001-03,Sul do Equador,MT,POCONÉ,Minério de Ouro Primário,15.00,"642,200.99",Baixa,Baixa,E,Sim,-16.2202055555556,-56.6099333333333
+TB01,Marcelo Massaru Takahashi,00.061.608/3191-72,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,15.00,"582,171.51",Baixa,Baixa,E,Sim,-15.9563888888889,-56.4789722222222
+2 Kalunga,Vale S A Filial: Vale Manganês do Azul,33.592.510/0130-51,Sul do Equador,PA,PARAUAPEBAS,Minério de Manganês,7.50,"718,027.00",Baixa,Média,C,Sim,-6.11869444444444,-50.30525
+Azul,Vale S A Filial: Vale Manganês do Azul,33.592.510/0130-51,Sul do Equador,PA,PARAUAPEBAS,Minério de Manganês,32.00,"12,995,662.00",Baixa,Alta,B,Sim,-6.07813888888889,-50.2914722222222
+B6,Mineração Paragominas S A Filial: Mineração Paragominas S.A.,12.094.570/0004-10,Sul do Equador,PA,PARAGOMINAS,Bauxita Grau Metalúrgico,13.00,"595,008.65",Baixa,Alta,B,Sim,-3.25949444444444,-47.7581930555556
+Bacia 1 A,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,9.00,"858,000.00",Baixa,Alta,B,Sim,-1.57416666666667,-48.7505
+Bacia 1 B,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,9.00,"260,000.00",Baixa,Alta,B,Sim,-1.57416666666667,-48.7505
+Bacia 17,Serabi Mineração S.a.,04.207.303/0001-30,Sul do Equador,PA,ITAITUBA,Minério de Ouro Primário,14.50,"80,000.00",Baixa,Média,C,Sim,-6.32509444444444,-55.7863555555556
+Bacia 2,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,9.00,"850,000.00",Baixa,Alta,B,Sim,-1.57305555555556,-48.7555555555556
+Bacia 3,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,9.00,"467,248.00",Baixa,Alta,B,Sim,-1.57061111111111,-48.7570277777778
+Bacia 5 A,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,13.50,"510,000.00",Baixa,Alta,B,Sim,-1.58375,-48749
+Bacia 5 B,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,13.50,"270,000.00",Baixa,Alta,B,Sim,-1584,-48.7489166666667
+Bacia 5 C,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,13.50,"767,000.00",Baixa,Alta,B,Sim,-1584,-48.7489166666667
+Bacia 6 A,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,11.00,"374,825.00",Baixa,Média,C,Sim,-1.58277777777778,-48.7470555555556
+Bacia B 1,Pará Pigmentos S A,33.931.510/0001-31,Sul do Equador,PA,IPIXUNA DO PARÁ,Caulim,13.00,"270,000.00",Baixa,Média,C,Sim,-2.83547222222222,-47.9085555555556
+Bacia B 4,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,4.50,"45,000.00",Baixa,Média,C,Sim,-1.5775,-48.7755555555556
+Bacia de Controle Ambiental,Pará Pigmentos S A,33.931.510/0001-31,Sul do Equador,PA,IPIXUNA DO PARÁ,Caulim,8.00,"175,000.00",Baixa,Média,C,Sim,-2.82072222222222,-47.9065
+BACIA DE REJEITOS 14/15,Serabi Mineração S.a.,04.207.303/0001-30,Sul do Equador,PA,ITAITUBA,Minério de Ouro Primário,8.00,"130,000.00",Média,Média,C,Sim,-6.32455555555556,-55.7878611111111
+BACIA DE REJEITOS 16,Serabi Mineração S.a.,04.207.303/0001-30,Sul do Equador,PA,ITAITUBA,Minério de Ouro Primário,7.00,"87,000.00",Baixa,Média,C,Sim,-6.32508333333333,-55.7845
+Bacia de Segurança,Imerys. Rio Capim Caulim S A,16.532.798/0001-52,Sul do Equador,PA,BARCARENA,Caulim,11.00,"30,000.00",Baixa,Média,C,Sim,-1.58277777777778,-48.7470555555556
+Barragem de Água do Igarapé Bahia,Vale Minas Gerais,33.592.510/0217-47,Sul do Equador,PA,PARAUAPEBAS,Areia,14.70,"600,000.00",Baixa,Média,C,Sim,-6.02904888888889,-50.5519388888889
+BARRAGEM DE CAPTAÇÃO,Salobo Metais Sa.,33.931.478/0001-94,Sul do Equador,PA,MARABÁ,Minério de Cobre,19.00,"220,238.65",Baixa,Média,C,Sim,-5.79836111111111,-50.5026388888889
+BARRAGEM DE FINOS II,Salobo Metais Sa.,33.931.478/0001-94,Sul do Equador,PA,MARABÁ,Minério de Cobre,13.00,"891,538.00",Baixa,Média,C,Sim,-5.82397222222222,-50.4914166666667
+Barragem do Bandeira,Mineração Buritirama S A,27.121.672/0001-01,Sul do Equador,PA,MARABÁ,Minério de Manganês,14.60,"1,724,296.94",Baixa,Média,C,Sim,-5.5125,-50.2225
+Barragem do Mirante I e II,Cadam S.a.,04.788.980/0001-90,Sul do Equador,PA,ALMEIRIM,Caulim,35.00,"1,182,758.00",Baixa,Alta,B,Sim,0.897611111111111,-52.4418055555556
+BARRAGEM DO SOSSEGO,Vale S A Filial: Vale Mina Sossego,33.592.510/0009-01,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Cobre,42.10,"108,119,279.13",Baixa,Alta,B,Sim,-6.42910888888889,-50.0701538888889
+Deposito de Rejeito R4,Pará Pigmentos S A,33.931.510/0001-31,Sul do Equador,PA,IPIXUNA DO PARÁ,Caulim,10.00,"1,190,000.00",Baixa,Média,C,Sim,-2.82063194444444,-47.893555
+DIQUE DE FINOS I,Salobo Metais Sa.,33.931.478/0001-94,Sul do Equador,PA,MARABÁ,Minério de Cobre,11.00,"969,524.00",Baixa,Média,C,Sim,-5.81726,-50.5671688888889
+DIQUE DE FINOS II,Salobo Metais Sa.,33.931.478/0001-94,Sul do Equador,PA,MARABÁ,Minério de Cobre,16.42,"2,800,000.00",Baixa,Média,C,Sim,-5.83261111111111,-50.5411111111111
+DIQUE DE FINOS III,Salobo Metais Sa.,33.931.478/0001-94,Sul do Equador,PA,MARABÁ,Minério de Cobre,16.50,"22,937.88",Baixa,Média,C,Sim,-5.77963888888889,-50.5386388888889
+Estéril Sul,Vale S A Filial: Vale Carajas,33.592.510/0370-74,Sul do Equador,PA,PARAUAPEBAS,Minério de Ferro,25.00,"1,875,779.93",Baixa,Média,C,Sim,-6.09944444444444,-50.1625
+Geladinho,Vale S A Filial: Vale Carajas,33.592.510/0370-74,Sul do Equador,PA,PARAUAPEBAS,Minério de Ferro,24.00,"5,811,299.00",Baixa,Alta,B,Sim,-5.99477777777778,-50.1094722222222
+Gelado,Vale S A Filial: Vale Carajas,33.592.510/0370-74,Sul do Equador,PA,PARAUAPEBAS,Minério de Ferro,34.00,"110,469,304.67",Baixa,Alta,B,Sim,-5.97927777777778,-50.1414166666667
+Jacaré,Vale S A Filial: Vale Carajas,33.592.510/0370-74,Sul do Equador,PA,PARAUAPEBAS,Minério de Ferro,34.50,"681,816.00",Baixa,Média,C,Sim,-6.10813888888889,-50.1690555555556
+Kalunga,Vale S A Filial: Vale Manganês do Azul,33.592.510/0130-51,Sul do Equador,PA,PARAUAPEBAS,Minério de Manganês,21.00,"1,662,946.63",Baixa,Média,C,Sim,-6.11252777777778,-50.3083055555556
+LD1 - Lagoa de Disposição 01,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,Sul do Equador,PA,JURUTI,Bauxita Grau Não Metalúrgico,24.00,"2,879,251.38",Baixa,Média,C,Sim,-2.50069444444444,-56.1668055555556
+LD2 - Lagoa de Disposição 02,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,Sul do Equador,PA,JURUTI,Bauxita Grau Não Metalúrgico,24.00,"3,037,180.56",Baixa,Média,C,Sim,-2.49661111111111,-56.1738055555556
+LD3 - Lagoa de Disposição 03,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,Sul do Equador,PA,JURUTI,Bauxita Grau Não Metalúrgico,14.80,"4,356,851.57",Baixa,Média,C,Sim,-2.49588888888889,-56.1880111111111
+LE - Lagoa de Espessamento,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,Sul do Equador,PA,JURUTI,Bauxita Grau Não Metalúrgico,11.50,"4,269,081.35",Baixa,Média,C,Sim,-2505,-56.1757777777778
+Pera Jusante,Vale S A Filial: Vale Carajas,33.592.510/0370-74,Sul do Equador,PA,PARAUAPEBAS,Minério de Ferro,51.00,"4,249,278.83",Baixa,Alta,B,Sim,-6.04719444444444,-50.1429166666667
+Pera Montante,Vale S A Filial: Vale Carajas,33.592.510/0370-74,Sul do Equador,PA,PARAUAPEBAS,Minério de Ferro,30.00,"641,566.00",Baixa,Baixa,E,Sim,-6.05683333333333,-50.1437777777778
+PONDES DE REJEITOS DO IGARAPÉ BAHIA,Vale S A Filial: Vale Minas Gerais,33.592.510/0217-47,Sul do Equador,PA,PARAUAPEBAS,Minério de Ouro Primário,25.00,"12,000,000.00",Média,Alta,B,Sim,-6.04258333333333,-50.5805277777778
+RP1,Mineração Paragominas S.A.,12.094.570/0004-10,Sul do Equador,PA,PARAGOMINAS,Bauxita Grau Metalúrgico,13.50,"11,626,208.00",Baixa,Alta,B,Sim,-3.25940472222222,-47.7578819444444
+SP1,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,15.00,"1,470,000.00",Baixa,Média,C,Sim,-1.68291666666667,-56.4181666666667
+SP10,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,16.00,"7,300,000.00",Baixa,Média,C,Sim,-1.6835,-56.4526666666667
+SP11,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,16.00,"5,400,000.00",Baixa,Média,C,Sim,-1.68263888888889,-56.4632777777778
+SP12,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,15.00,"3,600,000.00",Baixa,Média,C,Sim,-1.68730555555556,-56.46825
+SP13,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,15.00,"2,298,321.00",Baixa,Média,C,Sim,-1.69294444444444,-56.4673055555556
+SP14,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,15.00,"2,200,000.00",Baixa,Média,C,Sim,-1.69875,-56.4702777777778
+SP15,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,20.00,"1,700,000.00",Baixa,Média,C,Sim,-1.69988888888889,-56.4754166666667
+SP16,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,20.00,"8,900,000.00",Baixa,Média,C,Sim,-1.69388888888889,-56.4761111111111
+SP2_3,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,20.00,"4,900,000.00",Baixa,Média,C,Sim,-1.68469444444444,-56.4036944444444
+SP4 Norte,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,19.00,"7,107,205.40",Baixa,Média,C,Sim,-1.68480555555556,-56.4270555555556
+SP4 Sul,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,19.00,"5,455,557.30",Baixa,Média,C,Sim,-1.69061111111111,-56.4269722222222
+SP5 Leste,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,19.00,"6,994,486.60",Baixa,Média,C,Sim,-1.68269444444444,-56.4354166666667
+SP5 Oeste,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,19.00,"9,274,798.90",Baixa,Média,C,Sim,-1.68283333333333,-56.4445555555556
+SP6,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,12.00,"712,790.00",Baixa,Média,C,Sim,-1.67633333333333,-56.4242777777778
+SP7A,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,19.00,"4,300,000.00",Baixa,Média,C,Sim,-1.67155555555556,-56.4341944444444
+SP7B,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,16.00,"5,843,082.80",Baixa,Média,C,Sim,-1.66972222222222,-56.4400833333333
+SP7C,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,16.00,"8,200,000.00",Baixa,Média,C,Sim,-1.66969444444444,-56.4448888888889
+SP8,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,16.00,"11,900,000.00",Baixa,Média,C,Sim,-1.67347222222222,-56.4528055555556
+SP9,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,10.00,"8,200,000.00",Baixa,Média,C,Sim,-1.67491666666667,-56.4609166666667
+SP9A,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,8.00,"2,480,789.20",Baixa,Média,C,Sim,-1.66852777777778,-56.46225
+TP1,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,15.00,"8,500,000.00",Baixa,Alta,B,Sim,-1.68177777777778,-56.4110833333333
+TP2,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,15.00,"8,956,085.00",Baixa,Alta,B,Sim,-1.6765,-56438
+TP3,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,22.00,"5,390,783.00",Baixa,Média,C,Sim,-1.68777777777778,-56.4725
+Bacia de Decantação Final No Bota Fora,Mineração Nossa Senhora do Carmo Ltda,83.647.750/0001-87,Sul do Equador,PR,CERRO AZUL,Fluorita,22.00,"226,035.00",Média,Média,C,Sim,-24.7485083333333,-49.1877972222222
+BARRAGEM SUL OU TANQUE VELHO,Mineração Tabiporã Ltda,79.066.841/0001-51,Sul do Equador,PR,CAMPO LARGO,Minério de Ouro Primário,25.00,"302,000.00",Baixa,Média,C,Sim,-25.3705058333333,-49.6908608333333
+Pinheirinho,Mineração Nossa Senhora do Carmo Ltda,83.647.750/0001-87,Sul do Equador,PR,CERRO AZUL,Fluorita,13.50,"672,408.00",Média,Média,C,Sim,-24.7479972222222,-49.1947027777778
+BARRAGEM DE REJEITOS,Cimento Tupi S.a.,33.039.223/0001-11,Sul do Equador,RJ,QUATIS,Argila Arenosa,19.00,"204,000.00",Baixa,Alta,B,Sim,-22.4550555555556,-44.2861944444444
+CA01,Metalmig Mineração Indústria e Comércio S A,34.456.038/0001-95,Sul do Equador,RO,ITAPUÃ DO OESTE,Aluvião Estanífero,5.00,"105,000.00",Média,Alta,B,Sim,-9.43180555555555,-63.0555277777778
+CA02,Metalmig Mineração Indústria e Comércio S A,34.456.038/0001-95,Sul do Equador,RO,ITAPUÃ DO OESTE,Areia,5.00,"60,000.00",Média,Alta,B,Sim,-9.43163888888889,-63.0555277777778
+Igarapé Mutum,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,Sul do Equador,RO,ARIQUEMES,Aluvião Estanífero,5.00,"10,699,776.00",Média,Média,C,Sim,-9.76540694444445,-63.5200308333333
+Jacaré Inferior,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,Sul do Equador,RO,ARIQUEMES,Aluvião Estanífero,8.00,"3,595,017.00",Média,Média,C,Sim,-9.78780555555556,-63.5751666666667
+Jacaré Medio,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,Sul do Equador,RO,ARIQUEMES,Aluvião Estanífero,8.00,"3,020,623.00",Média,Alta,B,Sim,-9.7955,-63.5652777777778
+Jacaré Superior,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,Sul do Equador,RO,ARIQUEMES,Aluvião Estanífero,10.00,"9,170,673.00",Média,Média,C,Sim,-9817,-63.5531944444444
+PIT-01,Estanho de Rondonia S A,00.684.808/0001-35,Sul do Equador,RO,ITAPUÃ DO OESTE,Aluvião Estanífero,14.30,"462,588.80",Baixa,Alta,B,Sim,-9.21605555555555,-63076
+Rio Santa Cruz,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,Sul do Equador,RO,ARIQUEMES,Aluvião Estanífero,10.00,"3,755,613.00",Média,Média,C,Sim,-9.76586111111111,-63.5685833333333
+Taboquinha 01 - Crente,Estanho de Rondonia S A,00.684.808/0001-35,Sul do Equador,RO,ITAPUÃ DO OESTE,Aluvião Estanífero,18.00,"435,000.00",Baixa,Média,C,Sim,-9.19838888888889,-63.0802777777778
+Taboquinha 02 - Serra Azul,Estanho de Rondonia S A,00.684.808/0001-35,Sul do Equador,RO,ITAPUÃ DO OESTE,Aluvião Estanífero,18.00,"87,000.00",Baixa,Média,C,Sim,-9.20436111111111,-63.0845555555556
+Taboquinha 03,Estanho de Rondonia S A,00.684.808/0001-35,Sul do Equador,RO,ITAPUÃ DO OESTE,Aluvião Estanífero,15.00,"194,900.00",Média,Média,C,Sim,-9.20554277777778,-63.0836208333333
+Taboquinha 04,Estanho de Rondonia S A,00.684.808/0001-35,Sul do Equador,RO,ITAPUÃ DO OESTE,Aluvião Estanífero,20.00,"145,193.15",Média,Média,C,Sim,-9.21086111111111,-63.0863888888889
+Bacia de Finos da Mina do Cerro,Copelmi Mineração Ltda,33.059.528/0001-95,Sul do Equador,RS,CACHOEIRA DO SUL,Carvão Mineral,10.00,"534,000.00",Média,Média,C,Sim,-30.3862019444444,-53.0437330555556
+Bacia de Finos da Mina do Recreio,Copelmi Mineração Ltda,33.059.528/0001-95,Sul do Equador,RS,BUTIÁ,Carvão Mineral,20.00,"2,371,167.00",Média,Alta,B,Sim,-30.1456613888889,-52.0037752777778
+P1-1,Companhia Riograndense de Mineração,92.724.145/0001-53,Sul do Equador,RS,MINAS DO LEÃO,Carvão Mineral,3.00,"17,250.00",Média,Média,C,Sim,-30.1310277777778,-52.0519444444444
+Bacia A,Carbonifera Metropolitana Sa,83.647.917/0001-00,Sul do Equador,SC,TREVISO,Carvão Mineral Camada Bonito,5.30,"14,679.90",Baixa,Alta,B,Sim,-28.4921111111111,-49.4602777777778
+Bacia B,Carbonifera Metropolitana Sa,83.647.917/0001-00,Sul do Equador,SC,TREVISO,Carvão Mineral Camada Bonito,6.50,"14,368.00",Baixa,Alta,B,Sim,-28.4941388888889,-49.4600277777778
+Bacia de Acumulação 01,Carbonífera Siderópolis Ltda.,83.852.137/0001-00,Sul do Equador,SC,URUSSANGA,Carvão Mineral Camada Barro Branco,7.10,"500,000.00",Média,Média,C,Sim,-28.4536111111111,-49.3702777777778
+BACIA DE DECANTAÇÃO DA USINA RIO FIORITA,Gabriella Mineração Ltda,07.105.967/0001-87,Sul do Equador,SC,SIDERÓPOLIS,Carvão Mineral,3.50,"35,742.00",Baixa,Média,C,Sim,-28.5772777777778,-49.4421944444444
+Barragem Cruz de Malta,Indústria Carbonífera Rio Deserto Ltda,83.286.500/0001-69,Sul do Equador,SC,TREVISO,Carvão Mineral Camada Bonito,27.00,"70,831.00",Baixa,Alta,B,Sim,-28.4730555555556,-49.4580555555556
+Barragem Lauro Muller,Carbonífera Belluno Ltda.,83.163.576/0001-05,Sul do Equador,SC,LAURO MÜLLER,Carvão Mineral Camada Bonito,20.00,"150,000.00",Média,Alta,B,Sim,-28.4096111111111,-49.42775
+Barragem Rio Fiorita,Carbonífera Belluno Ltda.,83.163.576/0001-05,Sul do Equador,SC,SIDERÓPOLIS,Carvão Mineral,10.00,"527,420.00",Média,Alta,B,Sim,-28.5868519444444,-49.4432152777778
+BOA VISTA,Carbonífera Catarinense Ltda,80.418.205/0001-20,Sul do Equador,SC,LAURO MÜLLER,Carvão Mineral Camada Bonito,35.00,"63,469.61",Baixa,Alta,B,Sim,-28.39,-49.4222222222222
+NOVO HORIZONTE,Carbonífera Catarinense Ltda,80.418.205/0001-20,Sul do Equador,SC,LAURO MÜLLER,Carvão Mineral Camada Barro Branco,13.00,"64,629.25",Baixa,Alta,B,Sim,-28.3928305555556,-49.4648916666667
+Dique de Contenção de Salmoura,Mosaic Fertilizantes P&K S.A. Filial: Taquari Vassouras,33.931.486/0033-18,Sul do Equador,SE,ROSÁRIO DO CATETE,Silvanita,4.00,"19,432.23",Baixa,Média,C,Sim,-10.6578055555556,-37.0298333333333
+Dique de Resíduos Insóluveis,Mosaic Fertilizantes P&K S.A. Filial: Taquari Vassouras,33.931.486/0033-18,Sul do Equador,SE,ROSÁRIO DO CATETE,Silvanita,5.50,"32,842.96",Baixa,Média,C,Sim,-10.6573333333333,-37.03125
+11 - DES,Mineração Jundu Ltda.,60.628.468/0001-57,Sul do Equador,SP,DESCALVADO,Argila,15.00,"1,500,000.00",Baixa,Baixa,E,Sim,-21.9547394444444,-47.6133372222222
+12 - DES,Mineração Jundu Ltda.,60.628.468/0001-57,Sul do Equador,SP,DESCALVADO,Argila,15.00,"577,840.39",Baixa,Baixa,E,Sim,-21.9516683333333,-47.6130616666667
+BACIA DE DECANTAÇÃO - PLANTA I,Geocal Mineração Ltda,00.255.910/0001-15,Sul do Equador,SP,SANTANA DE PARNAÍBA,Calcário Dolomítico,20.00,"8,500.00",Média,Baixa,D,Sim,-23.4012338888889,-46.9192377777778
+Barragem B12,Mosaic Fertilizantes P&K S.A. Filial: Cajati,33.931.486/0005-64,Sul do Equador,SP,CAJATI,Rocha Carbonática,13.50,"3,200,000.00",Baixa,Alta,B,Sim,-24.7166666666667,-48.1
+BARRAGEM DE CLARIFICAÇÃO,Territorial São Paulo Mineração Ltda,60.874.229/0001-87,Sul do Equador,SP,SÃO PAULO,Argila,25.00,"659,323.59",Média,Alta,B,Sim,-23.4205555555556,-46.7360555555556
+Barragem de Sedimentos da Pedreira Itapeti - BA1,Embu S.a Engenharia e Comércio,61.322.558/0001-88,Sul do Equador,SP,MOGI DAS CRUZES,Granito,27.36,"375,000.00",Baixa,Alta,B,Sim,-23.4971666666667,-46.2438888888889
+Barragem de Sedimentos da Pedreira Itapeti - BA2,Embu S.a Engenharia e Comércio,61.322.558/0001-88,Sul do Equador,SP,MOGI DAS CRUZES,Granito,9.64,"154,433.29",Baixa,Alta,B,Sim,-23.4966388888889,-46.2473333333333
+Barragem de Sedimentos da Pedreira Juruaçu - BA4,Embu S.a Engenharia e Comércio,61.322.558/0001-88,Sul do Equador,SP,SÃO PAULO,Granito,45.00,"3,190,000.00",Baixa,Alta,B,Sim,-23.4095555555556,-46.7312222222222
+Bom Retiro 2,MINERAÇÃO BOM RETIRO LTDA.,56.763.790/0001-11,Sul do Equador,SP,LEME,Argila,23.58,"1,800,000.00",Baixa,Média,C,Sim,-22.1875,-47.4555555555556
+CIMPOR,Mosaic Fertilizantes P&K S.A. Filial: Cajati,33.931.486/0005-64,Sul do Equador,SP,CAJATI,Rocha Carbonática,60.00,"6,340,000.00",Baixa,Alta,B,Sim,-24.7069444444444,-48115
+Dique 1 (Barragem 2 -Britagem),PEDREIRA SARGON LTDA,60.101.300/0001-99,Sul do Equador,SP,SANTA ISABEL,Argila,14.00,"74,135.00",Média,Média,C,Sim,-23.3557222222222,-46.2829166666667
+Dique 3 (Barragem 1 - Portaria),PEDREIRA SARGON LTDA,60.101.300/0001-99,Sul do Equador,SP,SANTA ISABEL,Argila,20.00,"170,000.00",Média,Média,C,Sim,-23.3566388888889,-46.2849444444444
+Guará 3,Extração de Areia e Pedregulho Cachoeira Ltda.,45.600.327/0001-32,Sul do Equador,SP,GUARAREMA,Argila,18.00,"735,000.00",Baixa,Baixa,E,Sim,-23.3890277777778,-46.1353333333333
+ITAPEVA,Samaca Ferros Ltda,16.682.218/0001-03,Sul do Equador,SP,RIBEIRÃO BRANCO,Minério de Estanho Primário,20.00,"260,000.00",Média,Baixa,D,Sim,-24.25375,-48.9159722222222
+JBS1,EMPRESA DE MINERAÇÃO E ARTEFATOS DE CIMENTO JBS LTDA EPP,47.354.774/0001-84,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,12.00,"331,920.00",Média,Média,C,Sim,-23.3973333333333,-46.1948888888889
+Lagoa 1,Mineração Darcy R. O. e Silva Ltda,45.369.188/0001-88,Sul do Equador,SP,SÃO SIMÃO,Argila Caulinítica,5.00,"271,000.00",Baixa,Média,C,Sim,-21.4327861111111,-47.6132416666667
+Lagoa 2,Mineração Darcy R. O. e Silva Ltda,45.369.188/0001-88,Sul do Equador,SP,SÃO SIMÃO,Argila Caulinítica,5.00,"112,000.00",Média,Média,C,Sim,-21.4303388888889,-47.6130555555556
+MBR II SUL,Mineracao Bom Retiro II Ltda,68.870.385/0001-81,Sul do Equador,SP,IBIÚNA,Areia,14.04,"157,070.50",Baixa,Média,C,Sim,-23.7881944444444,-47.1215
+MD 01/2012,Mineração Descalvado Ltda,54.114.475/0001-38,Sul do Equador,SP,DESCALVADO,Areia Industrial,25.00,"921,154.70",Baixa,Baixa,E,Sim,-21.9557222222222,-47.6182777777778
+OURO BRANCO OESTE,MINERAÇÃO OURO BRANCO SALTO DE PIRAPORA LTDA ME,72.911.985/0001-18,Sul do Equador,SP,SALTO DE PIRAPORA,Argila,3.00,"399,000.00",Média,Alta,B,Sim,-23662,-47.6666388888889
+BARRAGEM DE CONTENÇÃO DE REJEITOS,Itafos Arraias Mineração e Fertilizantes S.a.,05.919.578/0001-60,Sul do Equador,TO,ARRAIAS,Fosfato,20.00,"4,136,059.54",Baixa,Alta,B,Sim,-12.8958188888889,-46.8181177777778
+22,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,6.00,"56,519.00",,,,Não,0.738638888888889,-60.1673888888889
+42,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,4.90,"130,979.00",,,,Não,0.723527777777778,-60.1967222222222
+69,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,5.00,"84,941.00",,,,Não,0.743194444444444,-60.2014166666667
+189,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,5.00,"209,969.00",,,,Não,0.789555555555556,-60.0130277777778
+1-30,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,8.00,"1,320.09",,,,Não,0.707111111111111,-60.1925277777778
+68-1,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,6.00,"3,752.00",,,,Não,0.740416666666667,-60.2014166666667
+75-1,Mineração Taboca S.a.,34.019.992/0001-10,Sul do Equador,AM,PRESIDENTE FIGUEIREDO,Minério de Estanho Primário,4.00,"75,522.00",,,,Não,0.761555555555556,-60.2059722222222
+Bacuri,Mineração Vila Nova Ltda,02.008.461/0001-36,Norte do Equador,AP,MAZAGÃO,Minério de Cromo,5.00,"650,000.00",,,,Não,0.3795,-51.7227777777778
+BARRAGEM DA USINA,Empresa de Mineração e Pesquisa do Amapá,14.572.101/0001-41,Norte do Equador,AP,CALÇOENE,Minério de Ouro Primário,10.00,"80,000.00",,,,Não,1.67880555555556,-51.6905833333333
+Barragem de Clarificação de Água,Zamapá Mineração S.a.,05.857.559/0001-56,Norte do Equador,AP,FERREIRA GOMES,Minério de Ferro,8.00,"42,000.00",,,,Não,0.998027777777778,-51.1288888888889
+Barragem do Felipe,Cadam S.a.,04.788.980/0001-90,Sul do Equador,AP,VITÓRIA DO JARI,Caulim,13.00,"245,418.00",,,,Não,0.882444444444445,-52.3805833333333
+Barragem do Muriacá,Cadam S.a.,04.788.980/0001-90,Sul do Equador,AP,VITÓRIA DO JARI,Caulim,10.00,"52,000.00",,,,Não,0.893666666666667,-52.3640833333333
+REJEITO USINA,AM Amapa Mineração Ltda,06.170.253/0001-90,Norte do Equador,AP,CALÇOENE,Minério de Ouro Primário,5.00,"82,000.00",,,,Não,1.71416666666667,-51.6333333333333
+SAMACA,Mineração Vila Nova Ltda,02.008.461/0001-36,Norte do Equador,AP,MAZAGÃO,Minério de Ferro,9.00,"700,000.00",,,,Não,0.351611111111111,-51.8378611111111
+BACIA DE SEDIMENTO DA USINA DE TRATAMENTO,Magnesita Mineração S.a.,00.592.603/0001-20,Sul do Equador,BA,BRUMADO,Magnesita,4.78,"52,912.30",,,,Não,-14.2337777777778,-41.7196944444444
+BARAÚNA - PBC1,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,2.00,"12,200.00",,,,Não,-9.87471694444445,-39.8704988888889
+BARAÚNA - PBC2,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,2.00,"12,000.00",,,,Não,-9.87388083333333,-39.8706447222222
+BARAÚNA - PBC3,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,2.00,"8,500.00",,,,Não,-9.87495472222222,-39.8715719444444
+BARRAGEM DE DEPOSIÇÃO DE LAMA,XILOLITE S/A,62.477.088/0001-94,Sul do Equador,BA,BRUMADO,Argila,7.00,"60,277.00",,,,Não,-14.0979305555556,-41.6892055555556
+Barragem de Rejeitos de Irecê,Companhia Baiana de Pesquisa Mineral,13.554.910/0001-68,Sul do Equador,BA,IRECÊ,Fosfato,4.00,"235,467.89",,,,Não,-11.3119444444444,-41.8394444444444
+Barragem Santa Helena,Companhia Brasileira de Bentonita Ltda,04.885.978/0001-39,Sul do Equador,BA,VITÓRIA DA CONQUISTA,Bentonita,14.00,"7,500.00",,,,Não,-14.8112147222222,-41.0049769444444
+BARRAGEM USINA SANTALUZ BENEFICIAMENTO - BII,Magnesita Mineração S.a. Filial: FAZENDA PEDRAS PRETAS,00.592.603/0004-72,Sul do Equador,BA,SANTALUZ,Cromita,2.00,875.00,,,,Não,-11.260125,-39.3575694444444
+BARRAGEM USINA SANTALUZ BENEFICIAMENTO - BIII,Magnesita Mineração S.a. Filial: FAZENDA PEDRAS PRETAS,00.592.603/0004-72,Sul do Equador,BA,SANTALUZ,Cromita,2.00,"1,100.00",,,,Não,-11.2606944444444,-39.3575694444444
+BARRAGEM USINA SANTALUZ BENEFICIAMENTO BI,Magnesita Mineração S.a. Filial: FAZENDA PEDRAS PRETAS,00.592.603/0004-72,Sul do Equador,BA,SANTALUZ,Cromita,2.00,"1,125.00",,,,Não,-11.2602222222222,-39.3575694444444
+Cava Camarinha,Cia de Ferro Ligas da Bahia Ferbasa,15.141.799/0001-03,Sul do Equador,BA,CAMPO FORMOSO,Cromita,14.60,"29,688.00",,,,Não,-10.5456111111111,-40.4251944444444
+Cava Pedrinhas,Cia de Ferro Ligas da Bahia Ferbasa,15.141.799/0001-03,Sul do Equador,BA,CAMPO FORMOSO,Cromita,8.50,"201,205.00",,,,Não,-10545,-40.4145555555556
+Cava Sul,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,-,"323,173.00",,,,Não,-9.87147222222222,-39.8714444444444
+Dique Santa Rita,Mirabela Mineração do Brasil Ltda.,74.127.010/0001-29,Sul do Equador,BA,ITAGIBÁ,Minério de Níquel,5.00,"246,848.00",,,,Não,-14.1965408333333,-39.6916497222222
+Medrado 1,Cia de Ferro Ligas da Bahia Ferbasa,15.141.799/0001-03,Sul do Equador,BA,ANDORINHA,Cromita,5.00,"185,520.00",,,,Não,-10.3141666666667,-39.7672222222222
+Medrado 2,Cia de Ferro Ligas da Bahia Ferbasa,15.141.799/0001-03,Sul do Equador,BA,ANDORINHA,Cromita,11.20,-,,,,Não,-10.3149166666667,-39.7658333333333
+Medrado 3,Cia de Ferro Ligas da Bahia Ferbasa,15.141.799/0001-03,Sul do Equador,BA,ANDORINHA,Cromita,8.40,"94,325.00",,,,Não,-10.3155555555556,-39.7658333333333
+Pilha 01 - P1C1,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,6.00,"100,566.00",,,,Não,-9.852825,-39.8622966666667
+Pilha 01 - P1C3,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Sedimentos,1.00,"164,976.00",,,,Não,-9.85424583333333,-39.8665358333333
+Pilha 01 - P1C4,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,2.00,"85,786.00",,,,Não,-9.85546083333333,-39.8672558333333
+Pilha 01 - P1C5,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,14.00,"111,960.00",,,,Não,-9.85213,-39.8633438888889
+Pilha 01 - P1C6,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Sedimentos,2.00,"30,460.00",,,,Não,-9.85305694444445,-39.8649441666667
+Pilha 01 - P1C7,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,6.80,"10,277.00",,,,Não,-9.85535277777778,-39.8651108333333
+Pilha 01 - P1C8,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,3.50,"71,698.00",,,,Não,-9.85733555555555,-39.8633597222222
+Pilha 01 P1C2,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,9.50,"102,246.00",,,,Não,-9.8554425,-39.8639872222222
+Pilha 05 - P5C1,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,5.00,"172,053.00",,,,Não,-9.87948833333333,-39.86517
+Pilha 05 - P5C2,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,4.00,"155,498.00",,,,Não,-9.87685777777778,-39.8681688888889
+Pilha 05 - P5C3,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,5.00,"141,410.00",,,,Não,-9.88015916666667,-39.8642405555556
+Pilha 05 - P5C4,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,2.00,"7,052.00",,,,Não,-9.87520472222222,-39.8689169444444
+Pilha 05 - P5XC2,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,5.00,"79,459.00",,,,Não,-9.87565027777778,-39.8652186111111
+Pilha 05 - XC1,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,5.00,"80,000.00",,,,Não,-9.87721166666667,-39.8645388888889
+R22,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,-,"255,131.00",,,,Não,-9.86161111111111,-39.8730833333333
+R75,Mineração Caraíba S.a.,42.509.257/0001-13,Sul do Equador,BA,JAGUARARI,Minério de Cobre,-,-,,,,Não,-9.85286111111111,-39.8681388888889
+Dique de finos 03 - Depósito Tamanduá,Catalao,33.931.486/0010-21,Sul do Equador,GO,OUVIDOR,Argila,6.00,600.00,,,,Não,-18.1387952777778,-47.7821363888889
+GIRASSOL-01,Quartziti Mineradora Ltda,11.461.800/0001-26,Sul do Equador,GO,CORUMBÁ DE GOIÁS,Areia Quartzosa,5.00,"3,000.00",,,,Não,-15.7722222222222,-48.6380555555556
+Area M,Cbe Companhia Brasileira de Equipamento Filial:,27.184.936/0007-61,Sul do Equador,MA,CODÓ,Argila,-,"832,598.77",,,,Não,-4.52358333333333,-44.0160277777778
+VÃO DAS COBRAS,J. G. de A. FERREIRA MINERADORA EIRELI,03.779.142/0001-97,Sul do Equador,MA,PASTOS BONS,Saibro,2.00,"9,000.00",,,,Não,-6.58219444444444,-43.9662222222222
+2,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,10.00,"15,412.70",,,,Não,-19.9735002777778,-43.6037275
+01 PDE 01,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,SABARÁ,Minério de Ferro,12.00,0.01,,,,Não,-19.8538611111111,-43.7939722222222
+105-I,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,8.14,"8,400.00",,,,Não,-19.6271997222222,-43.2385638888889
+A - PDE Nordeste,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,13.00,300.00,,,,Não,-19.9487280555556,-43.5866997222222
+Alto Jacutinga,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,CONGONHAS,Minério de Ferro,11.80,"92,434.00",,,,Não,-20426,-43.8859722222222
+B - PDE Nordeste,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,14.50,"2,935.00",,,,Não,-19.9472572222222,-43.5835311111111
+Bacia 01,Arcelormittal Brasil S.a,17.469.701/0001-77,Sul do Equador,MG,BELA VISTA DE MINAS,Minério de Ferro,9.00,"1,000.00",,,,Não,-19.7847222222222,-43.1920277777778
+Bacia 07,Arcelormittal Brasil S.a,17.469.701/0001-77,Sul do Equador,MG,BELA VISTA DE MINAS,Minério de Ferro,7.00,500.00,,,,Não,-19.7831111111111,-43.1831111111111
+Bacia 08,Arcelormittal Brasil S.a,17.469.701/0001-77,Sul do Equador,MG,BELA VISTA DE MINAS,Minério de Ferro,7.00,"5,000.00",,,,Não,-19.7849722222222,-43.1801666666667
+Bacia 09,Arcelormittal Brasil S.a,17.469.701/0001-77,Sul do Equador,MG,BELA VISTA DE MINAS,Minério de Ferro,7.00,"2,200.00",,,,Não,-19.7771777777778,-43.189425
+Bacia 15,Arcelormittal Brasil S.a,17.469.701/0001-77,Sul do Equador,MG,BELA VISTA DE MINAS,Minério de Ferro,5.00,"2,200.00",,,,Não,-19.7763147222222,-43.1910477777778
+Bacia 16,Arcelormittal Brasil S.a,17.469.701/0001-77,Sul do Equador,MG,BELA VISTA DE MINAS,Minério de Ferro,12.00,"12,000.00",,,,Não,-19.7860977777778,-43.1727969444444
+Bacia de Conteção de Finos da PDE-A Norte,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,ITABIRITO,Dolomito,5.00,"3,480.00",,,,Não,-20.2783888888889,-43.9308611111111
+Bacia de Conteção de Finos da PDE-A Sul,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,ITABIRITO,Dolomito,6.00,"1,000.00",,,,Não,-20283,-43.9272777777778
+Bacia de Decantação 1,Mineração Matheus Leme Ltda,60.510.195/0001-41,Sul do Equador,MG,MATEUS LEME,Agalmatolito,2.00,"3,660.00",,,,Não,-19.9344444444444,-44.4708333333333
+Bacia de Decantação 3,Mineração Matheus Leme Ltda,60.510.195/0001-41,Sul do Equador,MG,MATEUS LEME,Agalmatolito,2.00,"1,570.00",,,,Não,-19.9338888888889,-44.4719444444444
+Bacia Lavador de Rodas,Gerdau Açominas S.a.,17.227.422/0001-05,Sul do Equador,MG,ITABIRITO,Minério de Ferro,3.60,612.23,,,,Não,-20.2929083333333,-43.9386277777778
+BARRAGEM  USINA BENEFICIAMENTO L7 - IIB,Magnesita Mineração S.a. Filial: FAZENDA BELA VISTA,00.592.603/0023-35,Sul do Equador,MG,UBERABA,Argila Refratária,2.00,"7,300.00",,,,Não,-19.41065,-47.9556833333333
+Barragem 1 - Dique de Contenção,Construtora Martins Lanna Ltda.,19.974.518/0001-54,Sul do Equador,MG,BETIM,Sedimentos,8.00,"12,000.00",,,,Não,-19.8649361111111,-44.0930844444445
+Barragem 2 - Captação de Água,Construtora Martins Lanna Ltda.,19.974.518/0001-54,Sul do Equador,MG,BETIM,Sedimentos,2.00,"14,000.00",,,,Não,-19.8759555555556,-44.1004916666667
+Barragem 3A - Sedimentação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,3.00,"3,420.00",,,,Não,-20.377275,-43.9146972222222
+Barragem 3B - Sedimentação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,3.00,"5,480.00",,,,Não,-20.3780888888889,-43.9154277777778
+Barragem 4 - Acumulação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,7.00,"4,078.00",,,,Não,-20.3777027777778,-43.9150944444444
+Barragem 5 - Captação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,4.00,"3,600.00",,,,Não,-20.3739138888889,-43.9214833333333
+Barragem 6 - Dique Filtrante,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,4.00,"2,640.00",,,,Não,-20.3771861111111,-43.9126888888889
+barragem 7 - Dique Filtrante,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,7.00,"7,063.00",,,,Não,-20.3794277777778,-43.9169027777778
+Barragem 8 - Dique Filtrante,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,6.00,"6,435.00",,,,Não,-20.3806666666667,-43.9175083333333
+Barragem 9 - Dique Filtrante,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,Sul do Equador,MG,ITABIRITO,Minério de Ferro,6.00,"3,833.00",,,,Não,-20.3807111111111,-43.9192583333333
+Barragem B1,Mineração Marsil Ltda.,16.800.211/0001-49,Sul do Equador,MG,ANTÔNIO DIAS,Areia,4.00,"10,200.00",,,,Não,-19.5499722222222,-43.02225
+Barragem B3,Mineração Marsil Ltda.,16.800.211/0001-49,Sul do Equador,MG,ANTÔNIO DIAS,Areia,7.00,"14,200.00",,,,Não,-19.5475833333333,-43.0215277777778
+Barragem Captação de Água,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,4.46,"14,000.00",,,,Não,-20.16925,-44.4508805555556
+Barragem de Contenção de Sólidos Carreados,EXTRATIVA MINERAL LTDA,17.174.889/0001-26,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,8.00,"28,000.00",,,,Não,-20.1100166666667,-43.9032472222222
+BARRAGEM DE GABIÕES,Empresa de Mineração Esperança Sa,33.300.971/0001-06,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,5.00,"30,000.00",,,,Não,-20.1156944444444,-44.2183611111111
+Barragem do Fundão,Avg Empreendimentos Minerários S.A,16.565.897/0001-30,Sul do Equador,MG,SABARÁ,Sedimentos,9.00,"20,000.00",,,,Não,-19.8214138888889,-43.7170777777778
+BARRAGEM DO LAGARTO,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Cascalho,8.00,"210,000.00",,,,Não,-20.4516519444444,-43.9065658333333
+Barragem dos Coqueiros,Avg Empreendimentos Minerários S.A,16.565.897/0001-30,Sul do Equador,MG,SABARÁ,Sedimentos,7.00,"2,500.00",,,,Não,-19.8154666666667,-43.7101361111111
+BARRAGEM POÇO FUNDO,Csn Mineração S.a.,08.902.291/0001-15,Sul do Equador,MG,CONGONHAS,Cascalho,2.88,"12,000.00",,,,Não,-20.4514319444444,-43.8984608333333
+BARRAGEM USINA BENEFICIAMENTO ESPONGILITO,Magnesita Mineração S.a.,00.592.603/0001-20,Sul do Equador,MG,UBERABA,Argila,2.00,"4,600.00",,,,Não,-19.4106333333333,-47.9551444444444
+BARRAGEM USINA BENEFICIAMENTO ESPONGILITO - IVA,Magnesita Mineração S.a. Filial: FAZENDA BELA VISTA,00.592.603/0023-35,Sul do Equador,MG,UBERABA,Argila,2.00,"4,300.00",,,,Não,-19.41065,-47.9556833333333
+BARRAGEM USINA BENEFICIAMENTO ESPONGILITO - IVB,Magnesita Mineração S.a. Filial: FAZENDA BELA VISTA,00.592.603/0023-35,Sul do Equador,MG,UBERABA,Argila,2.00,"4,600.00",,,,Não,-19.41065,-47.9556833333333
+BARRAGEM USINA BENEFICIAMENTO L7 - IIA,Magnesita Mineração S.a. Filial: FAZENDA BELA VISTA,00.592.603/0023-35,Sul do Equador,MG,UBERABA,Argila Refratária,2.00,"7,100.00",,,,Não,-19.4103055555556,-47.9556833333333
+BARRAGEM USINA BENEFICIAMENTO L7 - IIB,Magnesita Mineração S.a.,00.592.603/0001-20,Sul do Equador,MG,UBERABA,Argila,2.00,"4,900.00",,,,Não,-19.4107972222222,-47.9562861111111
+BARRAGEM USINA BENEFICIAMENTO L8 - IIIA,Magnesita Mineração S.a. Filial: FAZENDA BELA VISTA,00.592.603/0023-35,Sul do Equador,MG,UBERABA,Argila Refratária,2.00,"4,900.00",,,,Não,-19.40975,-47.9556833333333
+BARRAGEM USINA BENEFICIAMENTO L8 - IIIB,Magnesita Mineração S.a. Filial: FAZENDA BELA VISTA,00.592.603/0023-35,Sul do Equador,MG,UBERABA,Argila Refratária,2.00,"3,900.00",,,,Não,-19.4094722222222,-47.9556833333333
+C - PDE Nordeste,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,8.00,"15,377.28",,,,Não,-19.9384508333333,-43.5838102777778
+Captação,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,SANTA BÁRBARA,Minério de Ferro,8.20,511.00,,,,Não,-20.2028333333333,-43.60225
+Captação Córrego das Almas,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,MARIANA,Minério de Ferro,8.50,"2,165.46",,,,Não,-20.1580322222222,-43.4680986111111
+Captação Trovões,Vale S A Filial: Vale Vargem Grande,33.592.510/0034-12,Sul do Equador,MG,ITABIRITO,Minério de Ferro,8.83,503.00,,,,Não,-20.1687222222222,-43.8614722222222
+Cata Branca,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,ITABIRITO,Minério de Ferro,9.00,"12,000.00",,,,Não,-20.2331111111111,-43.85675
+CONJUNTO DE BAIAS VIGA,Ferrous Resources do Brasil Sa,08.852.207/0001-04,Sul do Equador,MG,CONGONHAS,Minério de Ferro,9.00,"70,613.28",,,,Não,-20.4960277777778,-43.9176666666667
+D-1,Mineração Pedra Menina Ltda,05.059.907/0001-40,Sul do Equador,MG,SENADOR MODESTINO GONÇALVES,Minério de Manganês,11.00,"8,000.00",,,,Não,-17.9683138888889,-43.1690138888889
+D-2,Mineração Pedra Menina Ltda,05.059.907/0001-40,Sul do Equador,MG,SENADOR MODESTINO GONÇALVES,Minério de Manganês,14.00,"36,000.00",,,,Não,-17.9684611111111,-43.1697777777778
+D-3,Mineração Pedra Menina Ltda,05.059.907/0001-40,Sul do Equador,MG,SENADOR MODESTINO GONÇALVES,Minério de Manganês,6.00,"5,000.00",,,,Não,-17.9686583333333,-43.1697444444444
+Dique - Pilha 2,Mib Mineração Ibirité Ltda,08.578.982/0001-05,Sul do Equador,MG,BRUMADINHO,Sedimentos,2.00,250.00,,,,Não,-20.1298694444444,-44.1025638888889
+Dique - Pilha 4,Mib Mineração Ibirité Ltda,08.578.982/0001-05,Sul do Equador,MG,BRUMADINHO,Sedimentos,8.00,183.00,,,,Não,-20.1230880555556,-44.1064697222222
+Dique - Pilha de Rejeito,EXTRATIVA MINERAL LTDA,17.174.889/0001-26,Sul do Equador,MG,NOVA LIMA,Minério de Ferro,10.00,"80,000.00",,,,Não,-20.110225,-43.9088
+Dique 01 - Serra Azul,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,Sul do Equador,MG,MATEUS LEME,Minério de Ferro,14.00,"12,347.00",,,,Não,-20.1197944444444,-44.3855222222222
+Dique 01 de Terra,Arcelormittal Mineração Serra Azul S.a.,08.102.787/0001-04,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,9.00,"15,000.00",,,,Não,-20.1387119444444,-44.4008308333333
+Dique 01 Serra Azul - Dique Vai e Volta 1,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,13.00,"30,000.00",,,,Não,-20.1290833333333,-44.4201944444444
+Dique 02 - Pitangui,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,Sul do Equador,MG,MATEUS LEME,Minério de Ferro,6.00,"2,100.00",,,,Não,-20.1236888888889,-44.3755166666667
+Dique 02 Serra Azul - Dique Vai e Volta 2,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,12.00,"45,000.00",,,,Não,-20.1302777777778,-44.4225
+Dique 03,Companhia de Mineração Serra Azul Comisa,03.405.415/0001-33,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,5.00,900.00,,,,Não,-20.1217277777778,-44.3194083333333
+Dique 03 Serra Azul - Dique Vai e Volta 3,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,11.45,"76,000.00",,,,Não,-20.1307361111111,-44.4267027777778
+Dique 04,Companhia de Mineração Serra Azul Comisa,03.405.415/0001-33,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,3.00,100.00,,,,Não,-20.1194055555556,-44.3241555555556
+Dique 06 - Véu da Noiva Jusante,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,14.00,"2,500.00",,,,Não,-20.1315166666667,-44.3750111111111
+Dique 08 - Pátio CMC,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,12.00,"48,252.00",,,,Não,-20.1335972222222,-44.3795694444444
+Dique 1,Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.,61.064.838/0001-33,Sul do Equador,MG,ITUTINGA,Sedimentos,2.00,300.00,,,,Não,-21.3082388888889,-44.6608833333333
+Dique 13 - Pains,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,12.45,"54,000.00",,,,Não,-20.1244138888889,-44.4001833333333
+Dique 14,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,9.93,"54,000.00",,,,Não,-20.1624722222222,-44.4473888888889
+Dique 2,Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.,61.064.838/0001-33,Sul do Equador,MG,ITUTINGA,Sedimentos,3.00,100.00,,,,Não,-21.3082361111111,-44.6618305555556
+Dique 2 de Concreto,Arcelormittal Mineração Serra Azul S.a.,08.102.787/0001-04,Sul do Equador,MG,ITATIAIUÇU,Argila,3.00,200.00,,,,Não,-20.1394166666667,-44.4006388888889
+Dique 3,Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.,61.064.838/0001-33,Sul do Equador,MG,ITUTINGA,Sedimentos,1.50,25.00,,,,Não,-21.3087333333333,-44.6620388888889
+Dique B11 - Pilha de Estéril Alegria E (Dique do Córrego dos Macacos),Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,OURO PRETO,Sedimentos,14.50,"52,000.00",,,,Não,-20.1939869444444,-43.5083847222222
+Dique B2 - Pilha de Estéril João Manoel,Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,MARIANA,Sedimentos,10.00,"8,000.00",,,,Não,-20.1709038888889,-43.4980888888889
+Dique B3 - Pilha de Estéril João Manoel,Samarco Mineração S A.,16.628.281/0001-61,Sul do Equador,MG,MARIANA,Sedimentos,10.00,"12,000.00",,,,Não,-20.16991,-43.4961058333333
+Dique BIII-6,FERROMINAS - MINERAÇÃO LTDA,08.814.720/0001-00,Sul do Equador,MG,ITAÚNA,Sedimentos,7.50,"14,457.60",,,,Não,-20.1466722222222,-44.4543861111111
+Dique BIII-7,FERROMINAS - MINERAÇÃO LTDA,08.814.720/0001-00,Sul do Equador,MG,ITAÚNA,Sedimentos,7.50,"16,557.00",,,,Não,-20.1468555555556,-44.4514638888889
+Dique BIV-3 - Dique Hércules,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,13.00,"15,524.00",,,,Não,-20.1560555555556,-44.4413888888889
+Dique Caffaro,Mineral do Brasil Ltda.,17.246.638/0001-00,Sul do Equador,MG,MÁRIO CAMPOS,Sedimentos,8.00,"17,000.00",,,,Não,-20.095525,-44.1623777777778
+Dique Conquistinha,Mineração Morro do Ipê S.a.,22.902.554/0001-17,Sul do Equador,MG,BRUMADINHO,Sedimentos,5.00,30.00,,,,Não,-20.1159,-44.2981027777778
+Dique Couves (MUSA),Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,8.80,"3,800.00",,,,Não,-20.1558888888889,-44.4470833333333
+Dique da Divisa,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,10.00,"8,750.00",,,,Não,-20.1363333333333,-44.40525
+Dique da Mineira,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,10.20,"5,000.00",,,,Não,-20.1503611111111,-44.4358333333333
+Dique da Oficina,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,12.00,"10,000.00",,,,Não,-20.1253333333333,-44.4104722222222
+Dique da Oficina II,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,9.40,"5,600.00",,,,Não,-20.12625,-44.4135
+Dique de Captação,Pedreira Um Valemix Ltda.,41.716.499/0001-15,Sul do Equador,MG,CATAS ALTAS,Sedimentos,4.00,"13,134.76",,,,Não,-20.027475,-43.4241388888889
+Dique de Concreto,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,4.00,"1,600.00",,,,Não,-20.1318972222222,-44.3766388888889
+Dique de Contenção de Finos,Pedras Congonhas Extração Arte e Ind. Ltda,19.695.030/0001-98,Sul do Equador,MG,NOVA LIMA,Serpentinito,14.87,"2,376.00",,,,Não,-20.1161111111111,-43.8737222222222
+Dique de Contenção Pilha de Estéril MMR,Lafargeholcim (brasil) S.a. Filial: Barroso,60.869.336/0084-44,Sul do Equador,MG,PRADOS,Argila,-,-,,,,Não,-21.1910555555556,-43.99125
+DIQUE DE SAÍDA DE CAVA,Empresa de Mineração Esperança Sa,33.300.971/0001-06,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,8.00,"11,250.00",,,,Não,-20.1120277777778,-44.2201944444444
+Dique de Sedimentos da PDE Cava Sul,Ferro + Mineração S.a.,21.256.870/0001-04,Sul do Equador,MG,CONGONHAS,Minério de Ferro,9.90,"10,000.00",,,,Não,-20.4365083333333,-43.8717916666667
+Dique dos Búfalos,Araxa,33.931.486/0019-60,Sul do Equador,MG,ARAXÁ,Fosfato,9.50,"22,000.00",,,,Não,-19.6734277777778,-46.9719988888889
+Dique Flotação,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Minério de Ferro,6.00,"57,000.00",,,,Não,-20.1459166666667,-44.4054722222222
+Dique Intermediário,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,12.00,"12,000.00",,,,Não,-20.1598333333333,-44.4499444444444
+Dique IV,Mineração Geral do Brasil S A,60.727.120/0001-17,Sul do Equador,MG,BRUMADINHO,Argila Arenosa,2.00,100.00,,,,Não,-20.0711058333333,-44.0215538888889
+Dique Leste I,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,9.20,"15,100.00",,,,Não,-20.1213888888889,-44.3712222222222
+Dique Leste II,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,10.60,"7,100.00",,,,Não,-20.1202222222222,-44.3717777777778
+Dique Leste III,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,MATEUS LEME,Argila Arenosa,3.80,"1,350.00",,,,Não,-20.1160833333333,-44.37125
+Dique Longitudinal,Safm Mineração Ltda,09.325.670/0001-52,Sul do Equador,MG,ITABIRITO,Minério de Ferro,4.30,"88,750.00",,,,Não,-20.273525,-43.9001269444444
+Dique Mazano,Mineração Usiminas S.a.,12.056.613/0001-20,Sul do Equador,MG,ITATIAIUÇU,Argila Arenosa,10.00,"10,120.00",,,,Não,-20.1403888888889,-44.4224722222222
+Dique Quéias - Captação de Água,Companhia de Mineração Serra Azul Comisa,03.405.415/0001-33,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,5.00,"1,200.00",,,,Não,-20.1266944444444,-44.3161388888889
+Fazendinha,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,8.00,"3,830.74",,,,Não,-19.9717275,-43.6080622222222
+Gambá,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,CONGONHAS,Minério de Ferro,12.64,"5,000.00",,,,Não,-20.4313333333333,-43.8828611111111
+GERAIS,Minerações Gerais Ltda,02.196.839/0001-72,Sul do Equador,MG,INHAÚMA,Areia,4.00,90.00,,,,Não,-19.5824444444444,-44.4114166666667
+Ingleses,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,5.00,"3,524.96",,,,Não,-19.9653611111111,-43.5872777777778
+Ipoema,Vale S A Filial: Vale Itabira,33.592.510/0164-09,Sul do Equador,MG,ITABIRA,Minério de Ferro,7.50,"47,900.00",,,,Não,-19.6122272222222,-43.2558102777778
+Mata Porcos,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,ITABIRITO,Minério de Ferro,7.15,"7,000.00",,,,Não,-20.3860555555556,-43.8575
+MIGUEL BURNIER - DIQUE B1,MINERACAO RODEIO DE BAIXO LTDA Filial:,26.124.547/0001-92,Sul do Equador,MG,OURO PRETO,Calcário Dolomítico,3.00,"10,650.00",,,,Não,-20.4564444444444,-43.7497222222222
+MIGUEL BURNIER - DIQUE B2,MINERACAO RODEIO DE BAIXO LTDA Filial:,26.124.547/0001-92,Sul do Equador,MG,OURO PRETO,Calcário Dolomítico,2.00,"17,950.00",,,,Não,-20.4564444444444,-43.7499722222222
+MIGUEL BURNIER - DIQUE B3,MINERACAO RODEIO DE BAIXO LTDA Filial:,26.124.547/0001-92,Sul do Equador,MG,OURO PRETO,Calcário Dolomítico,3.00,"2,850.00",,,,Não,-20.4582222222222,-43.7336388888889
+Modulo 3,NEXA RECURSOS MINERAIS S.A,42.416.651/0001-07,Sul do Equador,MG,VAZANTE,Argila,6.00,"96,000.00",,,,Não,-17965,-46.8441666666667
+Patrimônio,Vale S A Filial: Vale Minas Centrais,33.592.510/0447-98,Sul do Equador,MG,BARÃO DE COCAIS,Minério de Ferro,8.00,"7,185.66",,,,Não,-19.9594472222222,-43.5872252777778
+PDE Engano,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,MARIANA,Minério de Ferro,7.00,"12,912.54",,,,Não,-20.3380555555556,-43.4246111111111
+PDE Lagoa Seca,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,MARIANA,Minério de Ferro,11.40,"10,626.16",,,,Não,-20.3489722222222,-43.4130833333333
+PDE Temporária II,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,MARIANA,Minério de Ferro,12.00,"7,000.00",,,,Não,-20.2151177777778,-43.4484863888889
+Piteiras,Piteiras Mineração Ltda.,03.369.498/0001-52,Sul do Equador,MG,ITABIRA,Xisto,2.00,"2,000.00",,,,Não,-19.6923611111111,-43.1128611111111
+Pocilga,Vale S A Filial: Vale Mariana,33.592.510/0412-68,Sul do Equador,MG,SANTA BÁRBARA,Minério de Ferro,9.00,"38,558.57",,,,Não,-20.1850833333333,-43.60575
+Prata,Vale S A Filial: Vale Itabiritos,33.592.510/0044-94,Sul do Equador,MG,OURO PRETO,Minério de Ferro,10.75,"20,000.00",,,,Não,-20.4117222222222,-43.8652777777778
+SANGUINETE,Mineração Sanguinete Ltda,20.762.035/0001-75,Sul do Equador,MG,DIAMANTINA,Areia,3.00,"15,000.00",,,,Não,-18.0090555555556,-43.7689166666667
+SANTA TERESA,Novelis do Brasil Ltda,60.561.800/0001-03,Sul do Equador,MG,DESCOBERTO,Bauxita Grau Metalúrgico,11.33,"200,000.00",,,,Não,-21.4671944444444,-42.8859722222222
+SANTO ANTÔNIO,Niki Mineração Comércio e Exportação Ltda,08.667.139/0001-03,Sul do Equador,MG,ANTÔNIO DIAS,Argila Arenosa,13.00,"150,000.00",,,,Não,-19.5454583333333,-43.0309361111111
+SUMP DE CONTENÇÃO DE SEDIMENTOS,Empresa de Mineração Esperança Sa,33.300.971/0001-06,Sul do Equador,MG,BRUMADINHO,Minério de Ferro,12.00,"12,000.00",,,,Não,-20.1109166666667,-44.2240833333333
+TQ-1,Saint-Gobain do Brasil Produtos Industriais e para Construção Ltda.,61.064.838/0087-03,Sul do Equador,MG,SÃO GONÇALO DO RIO ABAIXO,Areia Quartzosa,9.00,"5,789.00",,,,Não,-19.8915833333333,-43.2855277777778
+TQ-2,Saint-Gobain do Brasil Produtos Industriais e para Construção Ltda.,61.064.838/0087-03,Sul do Equador,MG,SÃO GONÇALO DO RIO ABAIXO,Areia Quartzosa,8.00,"6,897.00",,,,Não,-19.8921111111111,-43.2847222222222
+"Bacia ""S""",Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,4.00,"5,233.20",,,,Não,-19.2609722222222,-57.5287777777778
+Bacia 02-03 Alto da Serra Mn,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,Sul do Equador,MS,CORUMBÁ,Minério de Manganês,10.07,"9,479.00",,,,Não,-19.1908094444444,-57.6166975
+Bacia 05 Alto da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,Sul do Equador,MS,CORUMBÁ,Minério de Manganês,11.69,"5,662.00",,,,Não,-19.1918402777778,-57.6137813888889
+Bacia 07 Alto da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,Sul do Equador,MS,CORUMBÁ,Minério de Manganês,13.05,"5,862.00",,,,Não,-19.1920363888889,-57.6145905555556
+Bacia B-2A,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,9.60,"10,275.00",,,,Não,-19.2615555555556,-57.5285555555556
+Bacia B-2B,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,9.60,"7,557.00",,,,Não,-19.2615555555556,-57.5285555555556
+Bacia B-3,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,4.31,"5,397.71",,,,Não,-19.2624166666667,-57.5284166666667
+Bacia B-4,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,5.00,"4,385.00",,,,Não,-19.2620833333333,-57.5279166666667
+Bacia B-5A,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,5.00,"3,766.00",,,,Não,-19.2623333333333,-57.5277777777778
+Bacia B-5B,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,5.00,"2,319.80",,,,Não,-19.2625,-57.5276111111111
+Bacia B-8,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,5.00,"7,259.80",,,,Não,-19.2646666666667,-57.5270555555556
+Bacia B-9,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,5.25,"8,032.89",,,,Não,-19.2652777777778,-57.5266111111111
+Baia 4,Vetorial Mineração S A,61.247.870/0001-54,Sul do Equador,MS,CORUMBÁ,Minério de Ferro,10.00,"76,000.00",,,,Não,-19.2003508333333,-57.6394388888889
+ADÃO RODUÍ,ADÃO AFONSO RODUÍ,00.046.937/2509-91,Sul do Equador,MT,POCONÉ,Areia,14.00,"300,000.00",,,,Não,-16.2348833333333,-56.6524027777778
+Alain II,Alain Stephane Riviere Mineração,15.264.439/0001-07,Sul do Equador,MT,POCONÉ,Areia,3.00,"350,000.00",,,,Não,-16255,-56.6152777777778
+BACIA DE REJEITO MINERGOLD,P C Traven,17.194.340/0001-01,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Minério de Ouro Primário,5.00,"146,000.00",,,,Não,-15.6965277777778,-56.3339166666667
+BACIA DE REJEITOS BOM JARDIM,Evaldino Rodui,00.028.791/7629-87,Sul do Equador,MT,POCONÉ,Rocha Aurífera,8.00,"450,000.00",,,,Não,-16.2506111111111,-56.5991388888889
+BACIA DE REJEITOS SÃO BENTO,Francismar Cristiano Lima Formiga,00.081.375/5571-49,Sul do Equador,MT,POCONÉ,Rocha Aurífera,6.00,"124,650.00",,,,Não,-16.2579722222222,-56.5943611111111
+BARRAGEM  BLOCO NORTE,Angelo Carlos Vicari Junior,00.092.389/5701-00,Sul do Equador,MT,NOVA SANTA HELENA,Minério de Ouro Primário,5.00,"7,500.00",,,,Não,-10.6879722222222,-54.8279166666667
+BARRAGEM BLOCO  SUL,Angelo Carlos Vicari Junior,00.092.389/5701-00,Sul do Equador,MT,NOVA SANTA HELENA,Minério de Ouro Primário,2.00,100.00,,,,Não,-10.6867777777778,-54.8293055555556
+Barragem de Rejeito 01,A R Weber Me,05.742.530/0001-29,Sul do Equador,MT,NOSSA SENHORA DO LIVRAMENTO,Areia,7.50,"54,608.00",,,,Não,-15.77475,-56.2857222222222
+Barragem Salinas 1,Darci Nascimento Epp,00.057.032/0001-23,Sul do Equador,MT,POCONÉ,Rocha Aurífera,10.00,"100,000.00",,,,Não,-16.18325,-56.4185833333333
+Barragem T04,Valdinei Mauro de Souza,00.056.836/0581-49,Sul do Equador,MT,CUIABÁ,Rocha Aurífera,11.00,"1,815,000.00",,,,Não,-15.5572555555556,-55.8034555555556
+Barragem T05,Valdinei Mauro de Souza,00.056.836/0581-49,Sul do Equador,MT,POCONÉ,Minério de Ouro Primário,13.49,"483,417.27",,,,Não,-16.2985722222222,-56.7125
+Barragem T06,Valdinei Mauro de Souza,00.056.836/0581-49,Sul do Equador,MT,POCONÉ,Minério de Ouro Primário,6.00,"153,602.70",,,,Não,-16.3001638888889,-56.73295
+BOM PASTOR,Sidnei Rafael de Souza,00.009.611/8508-24,Sul do Equador,MT,POCONÉ,Areia,14.00,"660,000.00",,,,Não,-16.0973611111111,-56.5734444444445
+CAMPOS,Moacyr de Campos,00.008.158/7032-91,Sul do Equador,MT,POCONÉ,Areia,12.00,"1,248,000.00",,,,Não,-16.1815194444444,-56.5991916666667
+CANGAS,Jonas Gimenez Rodrigues,00.001.568/0888-92,Sul do Equador,MT,POCONÉ,Areia,11.50,"400,000.00",,,,Não,-16.1108555555556,-56.5739666666667
+CF - Leste,Mineração Tereza Botas Ltda.,36.960.714/0001-99,Sul do Equador,MT,POCONÉ,Rocha Aurífera,5.00,"192,200.00",,,,Não,-16.2158333333333,-56.6043055555556
+CF - Oeste,Mineração Tereza Botas Ltda.,36.960.714/0001-99,Sul do Equador,MT,POCONÉ,Rocha Aurífera,5.00,"92,000.00",,,,Não,-16.2144166666667,-56.6059444444444
+CHICO,NORAIR NELSON DE SOUZA,00.052.285/9791-34,Sul do Equador,MT,POCONÉ,Areia,8.00,"484,000.00",,,,Não,-16.2948527777778,-56.6515333333333
+COQUEIRAL,EVANDRO DE SOUZA,00.089.486/5109-97,Sul do Equador,MT,POCONÉ,Areia,14.00,"400,000.00",,,,Não,-16.0531305555556,-56.5499222222222
+FRED,Frederico Augusto de Arruda Gimenez Me,07.111.522/0001-00,Sul do Equador,MT,POCONÉ,Areia,10.00,"150,000.00",,,,Não,-16.0617416666667,-56.560425
+GAÚCHO,Airton Luiz Carus,00.035.505/9230-20,Sul do Equador,MT,POCONÉ,Areia,10.00,"150,000.00",,,,Não,-16.2475555555556,-56.5943888888889
+JOAO PAULO,Elisa Maciel Santos,00.069.390/0611-72,Sul do Equador,MT,POCONÉ,Argila,14.75,"450,000.00",,,,Não,-16.2487666666667,-56.6054166666667
+LU,José Vicente Nunes Rondon,00.000.649/2011-91,Sul do Equador,MT,POCONÉ,Areia,2.00,"590,000.00",,,,Não,-16.2413638888889,-56.6048666666667
+MARANATA,Sidnei Rafael de Souza,00.009.611/8508-24,Sul do Equador,MT,POCONÉ,Areia,14.50,"483,000.00",,,,Não,-16.0379166666667,-56.5376388888889
+MINERAÇÃO VALE DOURADO,Marcir Norberto Weber,15.947.559/0001-09,Sul do Equador,MT,ROSÁRIO OESTE,Aluvião Aurífero,1.00,2.00,,,,Não,-14.8505833333333,-56.5737222222222
+Moça Bonita,Valdemir Carlos de Souza,00.032.618/3101-44,Sul do Equador,MT,POCONÉ,Minério de Ouro Primário,8.00,"238,605.87",,,,Não,-16.1905177777778,-56.4131022222222
+OREGON,SÉRGIO DE FRANÇA,00.030.215/7229-49,Sul do Equador,MT,POCONÉ,Areia,6.00,"810,000.00",,,,Não,-16.2743611111111,-56.63725
+OURINHOS I,João Ginenes Rodrigues,00.051.095/7858-34,Sul do Equador,MT,POCONÉ,Argila,14.90,"1,300,000.00",,,,Não,-16.1199444444444,-56.5877222222222
+Rejeito,Vantage Brasil Mineração Ltda.,08.222.734/0001-27,Sul do Equador,MT,JUÍNA,Rocha Diamantífera,4.00,"424,000.00",,,,Não,-11.3133969444444,-59.0862647222222
+RODUÍ II,ADÃO AFONSO RODUÍ,00.046.937/2509-91,Sul do Equador,MT,POCONÉ,Areia,3.00,"140,000.00",,,,Não,-16.2390611111111,-56.6526027777778
+VALE DOURADO,Marcir Norberto Weber,15.947.559/0001-09,Sul do Equador,MT,ROSÁRIO OESTE,Aluvião Aurífero,1.00,2.00,,,,Não,-14.8505833333333,-56.5737222222222
+1 Mina,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,8.50,"188,680.72",,,,Não,-6.39938888888889,-50.3401388888889
+1 Usina,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,7.00,"34,000.00",,,,Não,-6.45491666666667,-50.22875
+3 Kalunga,Vale S A Filial: Vale Manganês do Azul,33.592.510/0130-51,Sul do Equador,PA,PARAUAPEBAS,Minério de Manganês,3.50,"1,965,306.00",,,,Não,-6.12005555555556,-50.3024166666667
+3 Mina,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,14.61,"165,320.00",,,,Não,-6.39441666666667,-50.3198055555556
+Bacia C Usina,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,7.30,"30,114.00",,,,Não,-6439,-50.2358055555556
+Barragem A1,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,11.00,"422,000.00",,,,Não,-1.47191666666667,-56.38575
+Barragem Água Fria,Mineracao Rio do Norte S A,04.932.216/0001-46,Sul do Equador,PA,ORIXIMINÁ,Argila,8.00,"103,000.00",,,,Não,-1.46580555555556,-56.3906666666667
+BARRAGEM SÃO GERALDO,Cooperativa Mineradora dos Garimpeiros de Ariquemes,22.825.491/0001-42,Sul do Equador,PA,SÃO FÉLIX DO XINGU,Areia e Cascalho,3.00,"5,250.00",,,,Não,-6.11019444444444,-52.2752777777778
+BARRAGEM SAO GERALDO 02,Cooperativa Mineradora dos Garimpeiros de Ariquemes,22.825.491/0001-42,Sul do Equador,PA,SÃO FÉLIX DO XINGU,Areia e Cascalho,3.00,"10,500.00",,,,Não,-6.07577777777778,-52.2551944444444
+Barramento 10,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,2.90,"10,670.00",,,,Não,-6.44355555555556,-50.3181111111111
+Barramento 7,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,2.40,"2,467.00",,,,Não,-6.44055555555556,-50.3255
+Barramento 8,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,2.40,"4,511.00",,,,Não,-6.44044444444445,-50.32
+CSO1,Vale S A Filial: Vale Mina Sossego,33.592.510/0009-01,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Argila Arenosa,6.00,1.00,,,,Não,-6.40802777777778,-50.0441666666667
+Dique 05,Vale S A Filial: Vale Minas MOP,33.592.510/0075-90,Sul do Equador,PA,SÃO FÉLIX DO XINGU,Minério de Níquel,10.85,"405,554.90",,,,Não,-6.55595694444444,-51.1734827777778
+Dique 06,Vale S A Filial: Vale Minas MOP,33.592.510/0075-90,Sul do Equador,PA,SÃO FÉLIX DO XINGU,Minério de Níquel,10.50,"78,000.00",,,,Não,-6.58036111111111,-51.1741666666667
+Dique do Puma 01,Vale Minas MOP,33.592.510/0075-90,Sul do Equador,PA,PARAUAPEBAS,Minério de Níquel,13.60,"295,000.00",,,,Não,-6.48525,-51.0775277777778
+Dique Provisorio 01,Vale S A Filial: Vale Minas MOP,33.592.510/0075-90,Sul do Equador,PA,SÃO FÉLIX DO XINGU,Minério de Níquel,6.20,"28,500.00",,,,Não,-6.56186111111111,-51.1711388888889
+Dique Provisorio 02,Vale S A Filial: Vale Minas MOP,33.592.510/0075-90,Sul do Equador,PA,SÃO FÉLIX DO XINGU,Minério de Níquel,4.80,"21,300.00",,,,Não,-6.56038888888889,-51.1667222222222
+E48 Bacia I,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,5.03,"6,333.00",,,,Não,-6.41991666666667,-50.3133055555556
+Igarapé,Vale S A Filial: Vale Minas MOP,33.592.510/0075-90,Sul do Equador,PA,OURILÂNDIA DO NORTE,Minério de Níquel,8.10,"1,862,231.00",,,,Não,-6.59,-51.09
+Lagoa de Disposição n°04 - LD4,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,Sul do Equador,PA,JURUTI,Bauxita Grau Não Metalúrgico,12.00,"750,000.00",,,,Não,-2.48669444444444,-56.1781388888889
+LAGOA FACEL 3,Cadam S.a.,04.788.980/0001-90,Sul do Equador,PA,ALMEIRIM,Caulim,11.00,"600,000.00",,,,Não,0.911115833333333,-52.4324627777778
+LAGOA FACEL 4,Cadam S.a.,04.788.980/0001-90,Sul do Equador,PA,ALMEIRIM,Caulim,9.00,"412,800.00",,,,Não,0.914569722222222,-52.4286858333333
+Lagoa Progeo,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,2.50,"21,520.00",,,,Não,-6.44186111111111,-50.3265
+Maney Mineração,Valdinei Mauro de Souza,00.056.836/0581-49,Sul do Equador,PA,ITAITUBA,Minério de Ouro Secundário,5.00,"400,000.00",,,,Não,-6.78889055555556,-56.6081108333333
+PN - 1,Vale S A Filial: Vale Mina Sossego,33.592.510/0009-01,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Argila Arenosa,5.00,"100,000.00",,,,Não,-6.40572222222222,-50.0571111111111
+PN - 3,Vale S A Filial: Vale Mina Sossego,33.592.510/0009-01,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Argila Arenosa,6.50,"1,120.00",,,,Não,-6.40259472222222,-50.0754088888889
+PN - 4,Vale S A Filial: Vale Mina Sossego,33.592.510/0009-01,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Argila Arenosa,5.00,"7,000.00",,,,Não,-6.41151694444445,-50.0332527777778
+PN - 6,Vale S A Filial: Vale Mina Sossego,33.592.510/0009-01,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Argila Arenosa,5.50,"50,000.00",,,,Não,-6.40599388888889,-50.0842008333333
+PN -5,Vale S A Filial: Vale Mina Sossego,33.592.510/0009-01,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Argila Arenosa,4.00,"6,000.00",,,,Não,-6.42138472222222,-50.0360908333333
+PS -1,Vale S A Filial: Vale Mina Sossego,33.592.510/0009-01,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Argila Arenosa,7.00,"220,000.00",,,,Não,-6.43386111111111,-50.0483611111111
+RECON,Mineração São Francisco de Assis Ltda.,42.323.964/0001-10,Sul do Equador,PA,SÃO FÉLIX DO XINGU,Areia,3.00,-,,,,Não,-6.83152777777778,-51991
+Sul Pilha,Vale S A Filial: Vale Serra Sul,33.592.510/0089-96,Sul do Equador,PA,CANAÃ DOS CARAJÁS,Minério de Ferro,12.00,"496,059.42",,,,Não,-6.47822222222222,-50.3213611111111
+Usina,Vale S A Filial: Vale Minas MOP,33.592.510/0075-90,Sul do Equador,PA,OURILÂNDIA DO NORTE,Minério de Níquel,8.50,"494,416.00",,,,Não,-6.58047222222222,-51.0770833333333
+QUIXABA USINA,Rozen Mineradora. Consultoria e Assessoria Em Gestão Empresarial Ltda Me,10.857.721/0001-76,Sul do Equador,PB,VÁRZEA,Areia Quartzosa,3.00,450.00,,,,Não,-6.80747222222222,-37008
+803.285/2014,Plinio Almeida Boson,11.714.784/0001-36,Sul do Equador,PI,SÃO LOURENÇO DO PIAUÍ,Saibro,1.00,500.00,,,,Não,-9.23605555555555,-42.5781111111111
+bonito,Ecb Rochas Ornamentais do Brasil Ltda,02.746.671/0001-21,Sul do Equador,PI,CASTELO DO PIAUÍ,Quartzito,1.50,900.00,,,,Não,-5.20891666666667,-41.7076666666667
+areal eskema,Areal Eskema Ltda,32.110.223/0001-06,Sul do Equador,RJ,SEROPÉDICA,Areia,8.00,"80,000.00",,,,Não,-22.7438888888889,-43.7077777777778
+Pond de Emergência,Anglo American Minério de Ferro Brasil S.a,02.359.572/0004-30,Sul do Equador,RJ,SÃO JOÃO DA BARRA,Minério de Ferro,4.50,"333,438.00",,,,Não,-21.8311111111111,-41.0205555555556
+BARRAGEM 339,Cooperativa Mineradora dos Garimpeiros de Ariquemes,22.825.491/0001-42,Sul do Equador,RO,MINISTRO ANDREAZZA,Areia e Cascalho,4.50,"7,500.00",,,,Não,-11.1373611111111,-61.6208611111111
+BARRAGEM 341,Cooperativa Mineradora dos Garimpeiros de Ariquemes,22.825.491/0001-42,Sul do Equador,RO,MINISTRO ANDREAZZA,Areia e Cascalho,4.50,"7,500.00",,,,Não,-11.1373611111111,-61.6208611111111
+BARRAGEM TABOQUINHA,Cooperativa Mineradora dos Garimpeiros de Ariquemes,22.825.491/0001-42,Sul do Equador,RO,CUJUBIM,Areia e Cascalho,4.50,"7,500.00",,,,Não,-9.52333333333333,-62.9058888888889
+BARRAGEM TARILÂNDIA 01,Cooperativa Mineradora dos Garimpeiros de Ariquemes,22.825.491/0001-42,Sul do Equador,RO,JARU,Argila,3.00,"31,250.00",,,,Não,-10822,-62.8339444444445
+BARRAGEM URUPA 01,Cooperativa Mineradora dos Garimpeiros de Ariquemes,22.825.491/0001-42,Sul do Equador,RO,URUPÁ,Argila,3.00,"31,250.00",,,,Não,-11.1354166666667,-62.4375277777778
+Belíssima,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,Sul do Equador,RO,ARIQUEMES,Minério de Estanho Secundário,10.00,"1,300,000.00",,,,Não,-9.79279083333333,-63.5596858333333
+Queimada,Metalmig Mineração Indústria e Comércio S A,34.456.038/0001-95,Sul do Equador,RO,ITAPUÃ DO OESTE,Aluvião Estanífero,5.00,"60,000.00",,,,Não,-9.42386111111111,-63.0478888888889
+RESERVATÓRIO 01,Muller & Cia Ltda Me,04.800.249/0001-32,Sul do Equador,RO,VILHENA,Argila Arenosa,2.00,"17,848.00",,,,Não,-12.8974444444444,-60.4225833333333
+RESERVATÓRIO 02,Muller & Cia Ltda Me,04.800.249/0001-32,Sul do Equador,RO,VILHENA,Argila Arenosa,2.00,"30,800.00",,,,Não,-12.8042222222222,-60.3651111111111
+RIO BRANCO,Minerais & Metais Comércio e Indústria Ltda Filial: Marcos,02.587.633/0007-69,Sul do Equador,RO,RIO CRESPO,Areia,4.00,"600,000.00",,,,Não,-9.77069444444444,-62.7406388888889
+MNP-01,Mineração Nova Petrópolis Ltda.,16.785.060/0001-05,Sul do Equador,RS,NOVA PETRÓPOLIS,Areia,5.00,"4,000.00",,,,Não,-29.3466666666667,-51.1916666666667
+VIAMAO,D & L Mineração Ltda.,09.044.878/0001-01,Sul do Equador,RS,VIAMÃO,Areia,13.00,"111,000.00",,,,Não,-29.1666666666667,-50.8211111111111
+Barragem 101,Indústria Carbonífera Rio Deserto Ltda,83.286.500/0001-69,Sul do Equador,SC,IÇARA,Carvão Mineral Camada Barro Branco,3.00,"9,542.20",,,,Não,-28.7291666666667,-49.2483333333333
+Santa Líbera,Cooperativa de Extração de Carvão Mineral dos Trabalhadores de Criciúma,80.967.540/0001-88,Sul do Equador,SC,FORQUILHINHA,Carvão Mineral Camada Barro Branco,2.20,"3,500.00",,,,Não,-28.7385,-49.4258888888889
+Dique Petrobrás,Mosaic Fertilizantes P&K S.A. Filial: Taquari Vassouras,33.931.486/0033-18,Sul do Equador,SE,ROSÁRIO DO CATETE,Sais,6.00,"6,362.07",,,,Não,-10.6534444444444,-37.0305833333333
+1. CONJUNTO DE LEIRAS DE DECANTAÇÃO,Realmix Agregados Minerais Ltda,02.931.701/0001-70,Sul do Equador,SP,BOFETE,Areia,3.00,"140,059.00",,,,Não,-23.1929444444444,-48.3625
+12 - AN,Mineração Jundu Ltda.,60.628.468/0001-57,Sul do Equador,SP,ANALÂNDIA,Argila,10.00,"492,348.00",,,,Não,-22.1569575,-47.6427913888889
+13 - AN,Mineração Jundu Ltda.,60.628.468/0001-57,Sul do Equador,SP,ANALÂNDIA,Argila,8.00,"663,184.00",,,,Não,-22.1550208333333,-47.6394513888889
+Barramento 1,MINERADORA PEDRIX LTDA,01.290.096/0001-32,Sul do Equador,SP,CAIEIRAS,Granito,4.00,"56,000.00",,,,Não,-23.3930722222222,-46.7750277777778
+Barramento 2,MINERADORA PEDRIX LTDA,01.290.096/0001-32,Sul do Equador,SP,CAIEIRAS,Granito,4.00,"5,200.00",,,,Não,-23.3892777777778,-46.7715833333333
+Boa Sorte,Empresa Mineradora Boa Sorte Ltda,45.599.032/0001-93,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,-,"365,000.00",,,,Não,-23.4119444444444,-46.2118888888889
+CAMC,Extração de Areia e Pedregulho Cachoeira Ltda.,45.600.327/0001-32,Sul do Equador,SP,MOGI DAS CRUZES,Argila,13.00,"588,484.00",,,,Não,-23.4012777777778,-46.2054166666667
+Cascalho,Cascalho Extração e Comércio de Areia. Cascalho e Argila Ltda Epp,00.311.698/0001-66,Sul do Equador,SP,PEDREIRA,Argila,-,"140,000.00",,,,Não,-22.7479444444444,-46.8716666666667
+CAVA,Milton José Aparecido Giuli Me,38.799.607/0001-56,Sul do Equador,SP,CAPIVARI,Areia,-,"180,000.00",,,,Não,-23.0082577777778,-47.4823797222222
+CAVA 1,L Pavan & Cia Ltda,44.140.069/0001-96,Sul do Equador,SP,SÃO PAULO,Argila,-,"120,000.00",,,,Não,-23.7851111111111,-46.6967777777778
+CAVA 2,L Pavan & Cia Ltda,44.140.069/0001-96,Sul do Equador,SP,SÃO PAULO,Argila,-,"92,000.00",,,,Não,-23.7829166666667,-46.6988055555556
+CHAPADINHA 061,Uilson Romanha & Cia Ltda,00.934.199/0001-25,Sul do Equador,SP,ITAPETININGA,Argila,6.00,"565,500.00",,,,Não,-23.6590833333333,-48.0056666666667
+CHAPADINHA 221,Uilson Romanha & Cia Ltda,00.934.199/0001-25,Sul do Equador,SP,ITAPETININGA,Argila,10.60,"740,000.00",,,,Não,-23.6515277777778,-47.9923611111111
+Conjunto de cavas em desativação recuperação,Mineradora Areia Nova Ltda,02.286.818/0001-48,Sul do Equador,SP,BOFETE,Areia,-,-,,,,Não,-23.1776111111111,-48.3433055555556
+Conterpa,Conterpa. Conservação e Terraplagem e Pavimentação Ltda,02.002.588/0001-48,Sul do Equador,SP,HORTOLÂNDIA,Argila,-,"300,000.00",,,,Não,-22.8611388888889,-47.2386111111111
+decantação de finos / reservatorio agua processo,Mineradora Areia Nova Ltda,02.286.818/0001-48,Sul do Equador,SP,BOFETE,Areia,-,-,,,,Não,-23.1781388888889,-48.3465277777778
+Deposito de Finos Porto de Areia Serramar,Pecuária Serramar EIRELI,03.938.233/0001-28,Sul do Equador,SP,CARAGUATATUBA,Areia,-,"385,000.00",,,,Não,-23.6597222222222,-45.5211111111111
+Dique 4 (Barragem 3 - Bota fora),PEDREIRA SARGON LTDA,60.101.300/0001-99,Sul do Equador,SP,SANTA ISABEL,Argila,8.00,"15,000.00",,,,Não,-23.3568055555556,-46.2753333333333
+Dique 5 (Barragem 4 - Bota fora),PEDREIRA SARGON LTDA,60.101.300/0001-99,Sul do Equador,SP,SANTA ISABEL,Argila,10.00,"12,000.00",,,,Não,-23.3560555555556,-46.2746944444444
+Dutra,Dutra Extração de Areia Ltda.,48.098.701/0001-31,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,-,"130,000.00",,,,Não,-23.4307222222222,-46.2108888888889
+engebrita,Pedreira Engebrita Ltda,61.728.804/0001-04,Sul do Equador,SP,SANTOS,Granito,3.50,"30,000.00",,,,Não,-23.8821388888889,-46.3143333333333
+Fazenda Santa Fé,Tech Rock Mineração Ltda.,62.579.818/0001-68,Sul do Equador,SP,SOROCABA,Argila,3.00,"2,700.00",,,,Não,-23.5089722222222,-47.3908888888889
+Fiori,Empresa de Mineração Fiori do Taboão Ltda.,00.265.541/0001-41,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,-,"325,000.00",,,,Não,-23.4044444444444,-46.1984722222222
+Guará 2,Extração de Areia e Pedregulho Cachoeira Ltda.,45.600.327/0001-32,Sul do Equador,SP,GUARAREMA,Argila,5.00,"78,300.00",,,,Não,-23.3923055555556,-46.1363611111111
+JBS2,EMPRESA DE MINERAÇÃO E ARTEFATOS DE CIMENTO JBS LTDA EPP,47.354.774/0001-84,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,11.00,"270,000.00",,,,Não,-23.3963333333333,-46.1976388888889
+JBS3,EMPRESA DE MINERAÇÃO E ARTEFATOS DE CIMENTO JBS LTDA EPP,47.354.774/0001-84,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,-,"310,000.00",,,,Não,-23.3922222222222,-46.2006944444445
+MD 05/2016,Mineração Descalvado Ltda,54.114.475/0001-38,Sul do Equador,SP,DESCALVADO,Areia Industrial,12.75,"245,447.47",,,,Não,-21.9568,-47.6218597222222
+OURO BRANCO LESTE,MINERAÇÃO OURO BRANCO SALTO DE PIRAPORA LTDA ME,72.911.985/0001-18,Sul do Equador,SP,SALTO DE PIRAPORA,Argila,5.00,"399,000.00",,,,Não,-23.6617777777778,-47.6647777777778
+PIRAPORÃO 138 II,Uilson Romanha & Cia Ltda,00.934.199/0001-25,Sul do Equador,SP,SALTO DE PIRAPORA,Argila,4.00,"28,000.00",,,,Não,-23.6283611111111,-47622
+PIRAPORÃO 138 III,Uilson Romanha & Cia Ltda,00.934.199/0001-25,Sul do Equador,SP,SALTO DE PIRAPORA,Argila,8.00,"115,200.00",,,,Não,-23.6315555555556,-47.6218055555556
+PORTO-4A,Itaquareia Ind. Extr. Minérios Ltda,55.023.386/0001-49,Sul do Equador,SP,MOGI DAS CRUZES,Argila,8.00,"933,900.00",,,,Não,-23.5628055555556,-46.2679166666667
+PORTO-4B,Itaquareia Ind. Extr. Minérios Ltda,55.023.386/0001-49,Sul do Equador,SP,MOGI DAS CRUZES,Argila,7.00,"345,000.00",,,,Não,-23.5656388888889,-46.2733611111111
+PORTO-6B,Itaquareia Ind. Extr. Minérios Ltda,55.023.386/0001-49,Sul do Equador,SP,MOGI DAS CRUZES,Argila,12.00,"290,000.00",,,,Não,-23.3857777777778,-46.1942222222222
+PORTO-8,Itaquareia Ind. Extr. Minérios Ltda,55.023.386/0001-49,Sul do Equador,SP,SUZANO,Argila,14.00,"1,472,940.00",,,,Não,-23.5558333333333,-46.2831944444444
+Quevedo 1,EXTRAÇAO E COMERCIO DE AREIA QUEVEDO & SILVA LTDA,02.745.436/0001-35,Sul do Equador,SP,TATUÍ,Argila Arenosa,8.00,"96,500.00",,,,Não,-23.3548055555556,-47.73025
+Quevedo 2,EXTRAÇAO E COMERCIO DE AREIA QUEVEDO & SILVA LTDA,02.745.436/0001-35,Sul do Equador,SP,TATUÍ,Argila Arenosa,7.00,"194,676.65",,,,Não,-23.3559166666667,-47.7284444444445
+Sedimentação de finos,EXTRAÇÃO E COMÉRCIO DE AREIA BOFETE LTDA,69.018.919/0001-09,Sul do Equador,SP,BOFETE,Areia,10.00,-,,,,Não,-23.1204722222222,-48.2280555555556
+Sítio Horii,Empresa de Mineração Horii Ltda.,52.573.227/0001-20,Sul do Equador,SP,MOGI DAS CRUZES,Caulim,13.40,"117,462.80",,,,Não,-23.6210833333333,-46.2475833333333
+TABOÃO 01,EXTRAÇÃO DE AREIA TABOAO LTDA,59.724.484/0001-64,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,12.50,"350,000.00",,,,Não,-23.3971111111111,-46.2050555555556
+TABOÃO 02,EXTRAÇÃO DE AREIA TABOAO LTDA,59.724.484/0001-64,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,12.00,"556,508.40",,,,Não,-23.3951944444444,-46.2056666666667
+TABOÃO 03,EXTRAÇÃO DE AREIA TABOAO LTDA,59.724.484/0001-64,Sul do Equador,SP,MOGI DAS CRUZES,Argila Arenosa,2.00,"9,624.00",,,,Não,-23394,-46.20975
+TANQUE DE DECANTAÇÃO,Mineração Santa Luzia de Aguaí Ltda,03.716.256/0001-98,Sul do Equador,SP,AGUAÍ,Argila,3.00,"35,000.00",,,,Não,-21.9962222222222,-47.1685833333333
+TANQUE DE DECANTAÇÃO 2,Mineração Santa Luzia de Aguaí Ltda,03.716.256/0001-98,Sul do Equador,SP,AGUAÍ,Argila,3.00,"40,000.00",,,,Não,-21.9961666666667,-47.1678055555556
+TANQUE DE LAMA,Concresand Mineração Ltda,03.833.915/0001-76,Sul do Equador,SP,BOFETE,Argila Arenosa,2.00,"30,000.00",,,,Não,-23.1886111111111,-48.3497222222222
+TD2,Disk Base Extração de Areia e Comercio de Materiais Para Construção Ltda Me,62.136.189/0001-00,Sul do Equador,SP,ALAMBARI,Areia,2.00,"1,800.00",,,,Não,-23.5795608333333,-47.8293547222222
+UNIDOS,Unidos Extração e Comércio de Areia e Pedra Ltda Epp,67.337.360/0001-54,Sul do Equador,SP,SARAPUÍ,Argila,8.00,"86,240.00",,,,Não,-23.6191388888889,-47.82025
+BARRAGEM,Monte Sinai Mineração Ltda,00.060.095/0001-39,Sul do Equador,TO,MONTE DO CARMO,Argila Arenosa,5.70,"39,000.00",,,,Não,-10.7891666666667,-48.0794444444445
+BARRAGEM GEOMINAS,Geominas Minerações Ltda.,11.979.744/0001-16,Sul do Equador,TO,NATIVIDADE,Sedimentos,5.00,"9,750.00",,,,Não,-11.6474166666667,-47.6767333333333
+BARRAGEM GEOMINAS-001,Geominas Minerações Ltda.,11.979.744/0001-16,Sul do Equador,TO,NATIVIDADE,Sedimentos,8.00,"86,000.00",,,,Não,-11.6493277777778,-47.6761777777778
+BARRAGEM GEOMINAS-002,Geominas Minerações Ltda.,11.979.744/0001-16,Sul do Equador,TO,NATIVIDADE,Sedimentos,8.00,"70,800.00",,,,Não,-11.6500027777778,-47.6750027777778
+SANTA LUZIA,Mineração Santa Luzia Limitada,19.791.590/0001-46,Sul do Equador,TO,NATIVIDADE,Argila,5.00,"600,000.00",,,,Não,-11.5889444444444,-47.8831722222222
