@@ -29,28 +29,3 @@ O projeto também poderá ser continuado aqui pelo **[github](https://nbviewer.j
   4. O arquivo **keplergl.json** é o arquivo de configuração utilizada para gerar as figuras/dataviz que estão na pasta Dataviz. Caso queira partir do ponto em que paramos (veja a figura acima gerada), basta fazer um upload desse arquivo no [Kepler.gl](http://kepler.gl/#/demo)
 
 ### Data4good!
-
-## Extra
-### Links originais das princiapis fontes de dados utilizadas:
-
-
->1.   Arquivos das barragens no site do antigo **DNPM** (Departamento Nacional de Produção Mineral, agora **ANM**-Agência Nacional de Mineração) - http://www.anm.gov.br/assuntos/barragens/arquivos-barragens
-  >> Nesse emaranhado de links, utilizaremos apenas o arquivo pdf do link http://www.anm.gov.br/assuntos/barragens/arquivos-barragens/CADASTRO%20NACIONAL%20DE%20BARRAGENS_2016%20_FINAL%2006-01-2017.pdf/view
-  >>Tal arquivo nos ajudará a entender as colunas de classificação já geradas, porém, não deve ser muito mais útil que isso por estar em pdf (dificuldade de extrair os dados)
-
->2.   Inventário de barragens no site da **FEAM**, que é a Fundação Estadual do Meio Ambiente e, por isso, teremos apenas os dados das barragens de MG nesse site/repositório: http://www.feam.br/monitoramento/gestao-de-barragens
- >> Aqui, vamos utilizar o link http://www.feam.br/images/stories/2018/BARRAGENS/PLANILHA_DIVULGA%C3%87%C3%83O.xlsx para   baixar a planilha com as informações das barragens.
- >> Nesse link, temos um relatório bem legal fazendo uma análise exploratória de dados que pode ser melhorada e mais explorada, além de depois podermos cruzar com mais dados, segue o link de referência: http://www.feam.br/images/stories/2018/BARRAGENS/Invent%C3%A1rio_de_Barragens_2017.pdf
-
->3. IBGE, dados dos domicílios das cidades no entorno de Brumadinho: https://www.ibge.gov.br/np_download/novoportal/extras/Cadastro_e_Trajetos_Municipios_Afetados_MG.zip 
-  
-
->4 Dados extras
- >> Dados sismológicos de acesso publico: http://obsis.unb.br/portalsis/ e http://www.sismo.iag.usp.br/eq/latest
-
->5 Arquivos excel/csv (convertidos do pdf do item 1.)
- >>**Excel convertido originalmente**
-https://docs.google.com/spreadsheets/d/1Ntj0jr3joIJtnjZQqA9m7Qa-cgya1KiGjjng8mrT_KQ/edit?usp=sharing
-
- >>**CSV a partir do Excel**
-https://drive.google.com/file/d/1eb5C6_7LOiLvlhU7KXmvHaQ6Soa7E9EV/view?usp=sharing
