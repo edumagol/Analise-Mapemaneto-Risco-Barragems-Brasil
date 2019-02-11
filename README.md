@@ -10,7 +10,7 @@ Projeto open source com objetivo principal de identificar os potenciais riscos d
 O projeto foi desenvolvido por diversos pesquisadores da comunidade do **Programa Bárbara da Cappra Data Science** e pessoas também fora da comunidade. Alguns dos pesquisadores:
   * Ricardo Cappra
   * Eu mesmo..rsrs
-  * Márcio Santos
+  * [Márcio Santos](https://github.com/bi85/Mapa-de-Riscos-Barragens) - acesse os dashoboards feitos no PowerBI!
   * Anna Cristina
   * Óllivan
   * Márcio Amaral
