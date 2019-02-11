@@ -13,6 +13,7 @@ O projeto foi desenvolvido por diversos pesquisadores da comunidade do **Program
   * [Márcio Santos](https://github.com/bi85/Mapa-de-Riscos-Barragens) - acesse os dashoboards feitos no PowerBI!
   * Anna Cristina
   * Óllivan
+  * [Bruno Vianna](https://github.com/luizbweb)
   * Márcio Amaral
   * Erick Guerra
   * Flavio Thimotio
