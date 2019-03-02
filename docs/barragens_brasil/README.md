@@ -6,13 +6,13 @@ Esta página é parte da etapa inicial de um esforço realizado por voluntários
 
 ### Análises e visualizações ###
 
-* [ Página Incial ]( https://luizbweb.github.io/ )
+* [ Página Incial ]( https://edumagol.github.io/ )
 
-* [ Visualização - Barragens e domicílios na região de Brumadinho ]( https://luizbweb.github.io/Analise-Mapemaneto-Risco-Barragems-Brasil/barragens_brumadinho )
+* [ Visualização - Barragens e domicílios na região de Brumadinho ]( https://edumagol.github.io/Analise-Mapemaneto-Risco-Barragems-Brasil/barragens_brumadinho )
 
-* [ Visualização - Barragens em Minas Gerais ]( https://luizbweb.github.io/Analise-Mapemaneto-Risco-Barragems-Brasil/barragens_mg )
+* [ Visualização - Barragens em Minas Gerais ]( https://edumagol.github.io/Analise-Mapemaneto-Risco-Barragems-Brasil/barragens_mg )
 
-* [ Visualização - Barragens no Brasil ]( https://luizbweb.github.io/Analise-Mapemaneto-Risco-Barragems-Brasil/barragens_brasil )
+* [ Visualização - Barragens no Brasil ]( https://edumagol.github.io/Analise-Mapemaneto-Risco-Barragems-Brasil/barragens_brasil )
 
 O conteúdo será atualizado conforme novas análises estiverem disponíveis.
 
